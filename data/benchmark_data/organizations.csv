@@ -1,0 +1,1076 @@
+Organization,Country,Info,Organization categorization,All ML Systems
+ Hewlett Packard Enterprise,United States of America,,Industry,
+ National Advanced Computing Industry Innovation Center (Yichang),China,,"Government,Industry",
+"""Heart of the Sea"" AI Computing Center",China,,Government,
+01.AI,China,,Industry,"Yi-34B,Yi-Large,Yi-Lightning,Yi-1.5-34B,Yi 6B,Yi Vision,Yi-VL-34B"
+1X,"United States of America,Norway",,Industry,1X World Model
+360 Security Technology,China,,Industry,"360 Smart Brain,360gpt2-pro"
+Aalborg University,Denmark,,Academia,DIABETES
+Aalto University,Finland,,Academia,DOT(S)-RNN
+Aarhus university,Denmark,,Academia,EvolMPNN
+Abacus AI,United States of America,,Industry,
+Abeja,Japan,,Industry,GPT-NeoX-Japanese
+Academia Sinica,Taiwan,,Academia,YOLOv9-E
+Academy of Military Science,China,,Government,ChatBit
+Adept,United States of America,,Industry,"Fuyu-Heavy,Fuyu-8B,Persimmon-8B"
+Adobe,United States of America,,Industry,"Firefly,Scatterbrain,GPT-2-Medium+Pixelfly,GPT-2-Small+Pixelfly,Firefly Video"
+Advanced Telecommunications Research Institute,Japan,,Industry,"Bidirectional RNN,Time-delay neural networks"
+Aerospace Supercomputing Center in Wenchang,China,,Industry,
+AGH University of Krakow,Poland,,Academia,
+Ahrefs,United States of America,,Industry,
+AI inside,Japan,https://inside.ai/en/,Industry,PolySphere-1
+AI Sweden,Sweden,,,"GPT-SW3,gpt-sw3-40b"
+AI21 Labs,Israel,,Industry,"Jurassic-1-Jumbo,Jurassic-X,Jurassic-2 Jumbo,Jamba,Jamba 1.5-Large,Jamba 1.5 Mini"
+Air Force Institute of Technology,United States of America,,Academia,
+AIRI Artificial Intelligence Research Institute,Russia,,Research collective,"Transformer-XL + RMT,MULAN"
+AITHYRA Institute,Austria,,Research collective,DiffSBDD
+Aix-Marseille Université,France,,Academia,MACE-MP-0
+Alan Turing Institute,United Kingdom of Great Britain and Northern Ireland,,Government,"StarCoder,aLSTM(depth-2)+RecurrentPolicy (WT2),WD+LR+M,Golem,MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune)"
+Aleph Alpha,Germany,,Industry,"Luminous-supreme,Luminous Sparse,Pharia-1-LLM-7B,Luminous-extended,Luminous-base"
+Alibaba,China,,Industry,"BaGuaLu,PLUG,M6-10T,M6-10B,M6-100B,M6-T,AR-LDM,Qwen-14B,Tongyi Qianwen 2.0,Qwen-72B,Qwen-7B,ONE-PEACE,Qwen-VL,Qwen-VL-Max,Qwen1.5-72B,Qwen-Audio-Chat,mPLUG-Owl2,H-LSTM+wg+rcp+rcg+wp,Qwen1.5-110B,Qwen2-72B,MuggleMath,Qwen2-Audio,Qwen2.5-72B,Qwen2-VL-72B,Qwen2-VL-2B,Qwen2-VL-7B,Qwen2.5-Coder (7B),Qwen2.5-Coder (1.5B),InstructPLM,Qwen2.5-Coder (32B),Qwen1.5-14B,Qwen2.5 Instruct (72B),Qwen2.5 Instruct (7B),QwQ,Qwen1.5-32B,Qwen1.5-7B,Qwen2.5-3B,Qwen2.5-7B,Qwen2.5-1.5B,Qwen2.5-32B,Qwen2.5-Max"
+Alibaba DAMO Academy,China,,Industry,CogView
+Allen Institute for AI,United States of America,,Research collective,"Transformer ELMo,ELMo,YOLOv2,YOLO,DeLighT,Sandwich Transformer,Transformer-XL DeFINE (141M),S-Norm,UnifiedQA,BIDAF,ATLAS,SciBERT,Unified-IO (XL),OpenFlamingo,ALiBi (L=3072, Lvalid = 3072),T2R + Random Init,Shortformer,RFA-GATE-Gaussian-Stateful Big,OLMo-7B,Tk-Instruct,Delphi,Unicorn,OLMoE,Molmo 72B,Tulu V2 DPO 70B, Tulu 3 (Tülu 3) 70B,OLMo 2 Furious 7B,OLMo 2 Furious 13B,s1"
+Amazon,United States of America,,Industry,"AlexaTM 20B,WeNet (WT2),WeNet (Penn Treebank),BERT-Large-CAS (PTB+WT2+WT103),Amazon Titan,CTR-BERT,CodeWhisperer,BERT-Large-CAS (WT103),BERT-Large-CAS (WT2),WeNet (PTB),Amazon Titan Text Express,Amazon Titan Text Lite,T2V-Turbo-v2,Amazon Nova Pro,Amazon Nova Lite,Amazon Nova Micro,Amazon Q Developer"
+Amazon Machine Learning Solutions Lab,United States of America,,Industry,LM-GVP
+American University of Beirut,Lebanon,,Academia,AraGPT2-Mega
+Amgen,United States of America,,Industry,"AMPLIFY,AMPLIFY"
+Andreessen Horowitz,United States of America,,Industry,
+Ant Group,China,The fintech firm backed by Chinese e-commerce giant Alibaba,Industry,"TCAN (WT2),TCAN (PTB),CodeFuse-13B,BaiLing,BaiLing TTS,bailing-pro-1120"
+Anthropic,United States of America,,Industry,"Claude 2,Claude,Claude 1.3,Anthropic LM 52B,Claude 2.1,Anthropic LM 175B,Claude Instant,Claude 3 Haiku,Claude 3 Sonnet,Claude 3 Opus,Claude 3.5 Sonnet,Claude 3.5 Haiku"
+Apple,United States of America,,Industry,"BigSSL,Ferret (13B),DITTO,LSTM+NeuralCache,ReALM,Mobile V-MoEs,MM1-30B,AFM-on-device,AFM-server,MobileCLIP-B (LT)"
+Applied Digital,United States of America,,Industry,
+Arcee AI,United States of America,,Industry,"INTELLECT-1,Hermes 2 Theta Llama-3 70B"
+Argilla,Spain,,Industry,Zephyr 141B-A39B																																						
+Argonne National Laboratory,United States of America,,Government,
+Aristotle University of Thessaloniki,Greece,,Academia,GPT2+CoreLM+Fine-Tuning
+Arizona State University,United States of America,,Academia,"Tk-Instruct,LearnLM-Tutor"
+ASAPP,United States of America,,Industry,"SRU++ Large,Transformer + Simple Recurrent Unit,SRU++ Base,SRU++ Large only 2 attention layers (k=5)"
+ASC27,Italy,,Industry,PLAPT
+Asia university,Taiwan,,Academia,DeepRelax
+AssemblyAI,,,Industry,Universal-1
+AstraZeneca,"Sweden,United Kingdom of Great Britain and Northern Ireland",,Industry,"PepINVENT,Reinvent 4"
+AT&T,United States of America,,Industry,"BellKor 2008,BellKor 2009,BigChaos OptiBlend,MatrixFac for Recommenders,BellKor 2007,BigChaos 2008,Enhanced Neighborhood-Based Filtering,Tagging via Viterbi Decoding,Perceptron for Large Margin Classification,LeNet-5,Social and content-based classification,Random Decision Forests,Support Vector Machines,Zip CNN,Handwritten Digit Recognition System,AdaBoost.M2 Digit Recognition"
+Australian Centre for Robotic Vision,Australia,,,RefineNet
+Baichuan,China,,Industry,"Baichuan2-53B,Baichuan2-13B,Baichuan1-7B,Baichuan 1-13B,Baichuan 2-7B"
+Baidu,China,,Industry,"ERNIE 3.0 Titan,ERNIE-ViLG,ERNIE-GEN (large),CRF-RNN,PLATO-XL,ERNIE 3.5,ERNIE-Doc (247M),ERNIE 3.0,ERNIE 4.0,ERNIE-Doc (151M),GraphMS,STEPS,HelixFold,HelixProtX,ERNIE-ViLG 2.0,DL scaling speech,DL scaling LM,DL scaling Image,Ernie 4.0 Turbo"
+Baidu Research - Silicon Valley AI Lab,United States of America,,Industry,"DeepSpeech2 (English),STEPS"
+Bangladesh University of Engineering and Technology,India,,Academia,RNA-DCGen
+Bar-Ilan University,Israel,,Academia,"Perfusion,DistilProtBert,NMT Transformer 437M"
+Barcelona Institute of Science and Technology,Spain,,,"PocketVec
+"
+Barcelona Supercomputing Center,Spain,,Government,SS-pLM
+Basecamp Research,United Kingdom of Great Britain and Northern Ireland,,,"ZymCTRL,BaseFold,HiFi - NN"
+BASF,Germany,,Industry,MACE-MP-0
+Bayerische Staatsbibliothek Muenchen,Germany,,Government,"GBERT-Large,German ELECTRA Large"
+Beihang University,China,,Academia,"Theseus 6/768,TrOCR,CogVLM-17B,GRU + p-tHSM (pretrain via Brown) (WT103),GRU + p-tHSM (pretrain via Brown) (PTB),GRU + p-tHSM (pretrain via Brown) (WT2),AdaRNN,Protllm,RiboDiffusion"
+Beijing Academy of Artificial Intelligence / BAAI,China,,Academia,"BaGuaLu,Wu Dao - Wen Lan,Wu Dao - Wen Yuan,Wu Dao - Wen Hui,Wu Dao - Wen Su,Wu Dao 2.0,CPM-Large,CogVideo,AltCLIP_M9,ALM 1.0,FLM-101B,CPM-2,Wu Dao Aquila-7B,Aquila2 34B,ProteinLM,bge-reranker-large,Emu (BAAI),EVA-01,GLM-10B,CogView2,Wu Dao Aquila-33B,GLM-10B-unidirectional,GLM-10B-bidirectional,GLM-2B,BGE-M3 Embedding,DrugCLIP,OmniGen,LEGO,EVA-CLIP (EVA-02-CLIP-E/14+)																											,CPM-Ant
+,CPM-Bee"
+Beijing Ascend AI Computing Center,China,,Government,
+Beijing Electronics Holding Co. Ltd.,China,,"Government,Industry",
+Beijing Energy Holding,China,,Government,
+Beijing Institute of Technology,China,,Academia,"EN^2AS with performance reward,Tensorized Transformer (257M),EVA-01,TSLM+MoS (WT2),Tensorized Transformer (core-2),Tensorized Transformer (small),Tensorized Transformer (large PTB),Tensorized Transformer (151M),TSLM+MoS (PTB),Protllm,ChatBit,sgRNAGen,SAF R-CNN"
+Beijing University of Chemical Technology,China,,Academia,EITLEM-Kinetics
+Beijing University of Posts and Telecommunications,China,,Academia,"ConSERT,MMLSTM,LSTM(large)+Sememe+cell,LSTM(medium)+Sememe+cell,CoPRA,ChatMol"
+Bell Laboratories,United States of America,,Industry,"Social and content-based classification,Random Decision Forests,Support Vector Machines,Zip CNN,Theseus,Linear Decision Functions,Boosting,Siamese-TDNN"
+Belozersky Institute of Physio-Chemical Biology,Russia,,Academia,MULAN
+Ben-Gurion University,Israel,,Academia,"RHN+HSG(depth=40),RHN(depth=40),GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (PTB)"
+Ben-Gurion University of the Negev,United States of America,,Academia,"ProteinBERT,GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2)"
+Berlin Institute for the Foundations of Learning and Data,Germany,,Research collective,SO3LR
+BigCode,,,,"StarCoder 2 15B,StarCoder 2 7B,StarCoder 2 3B"
+BigScience,"Multinational,France",,Research collective,"BLOOM-176B,BLOOM-7.1B,BLOOM-1.7B,BLOOM-1B,BLOOM-3B,BLOOM-560M,mT0-13B"
+BioGeometry,China,,Industry,GearBind
+Bioinformatics Institute,Singapore,,Government,RiNALMo
+Biological Cybernetics,Japan,,Industry,Cognitron
+BioMap Research,China,,Industry,"xTrimoPGLM -100B,ProteinChat,IDPFold"
+BionomeeX,France,,Industry,PeTriBERT
+Black Forest Labs,Germany,https://blackforestlabs.ai/,Industry,"Flux.1 [pro],Flux.1 [dev],FLUX1.1 [pro] Ultra,FLUX1.1 [pro] Raw"
+Bloomberg,United States of America,,Industry,BloombergGPT
+BNY Mellon,United States of America,,Industry,
+"BodaData Technology Co., Ltd.",China,https://www.bodadata.com/Home-en.html,Industry,
+"Booz Allen Hamilton, McLean",United States of America,,Industry,"Pythia-12b,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m"
+Bosch Center for Artificial Intelligence,Germany,https://www.bosch-ai.com/,Industry,"TrellisNet,TrellisNet-MoS (1.4x larger) PTB"
+Boston Consulting Group X,United States of America,,Industry,STEPS
+Boston University,United States of America,,Academia,"Platypus-70B,Engine-XL(NE),Engine-Base (NE),Engine-Medium(NE)"
+BrainLinks-BrainTools,Germany,,Academia,BetterBodies
+Brigham and Women's Hospital,United States of America,,,CHIEF
+Brno University of Technology,Czechia,,Academia,"RNN-SpeedUp,KN5 LM + RNN 400/10 (WSJ),RNN 500/10 + RT09 LM (NIST RT05),Context-dependent RNN,RNN+LDA+KN5+cache,RNN 1000/5 + RT09 LM (NIST RT05)"
+Broad Institute,United States of America,,Research collective,"RoseTTAFold2-Lite,DeepFRI,CHIEF,TxGNN,PocketGen"
+Brown University,United States of America,,Academia,"T0-XXL,AlphaX-1,Immediate trihead,LaNet-L (CIFAR-10),Aya,Text2Protein"
+ByteDance,China,,Industry,"Dou Bao,LLaVA-NeXT-34B (LLaVA-1.6),MegaScale (175B),MegaScale (530B),MegaScale (Production),GroundingGPT,KeAP,LM-Design,BindDM,DecompDiff,TiTok-L,PixelDance,ByteDance Seaweed,SeedEdit,Doubao-pro,Doubao-lite,Doubao Role-Playing Model,Doubao Text-to-Speech Model,Doubao Voice Cloning Model,Doubao Speech Recognition Model,Doubao Text-to-Image Model,Doubao Function Call Model,Doubao Vectorization Model,Doubao Image-to-Image generation model,Doubao Real-Time translation model,Doubao Video Generation model,Doubao-1.5-pro"
+Caldera AI,,Caldera AI is a non profit research organization prioritizing machine behavior discovery search through terraforming information landscapes in neural networks. Initial focus VIA observing knowledge transfer of model merges then fine-tuning with eclectic combinations of datasets.,Research collective,30B-Lazarus
+California Institute of Technology,United States of America,,Academia,"Statistical Shape Constellations,Hopfield network,Innervator,ProteinDT,GenSLM,Bayesian object categorizer,ProCALM"
+Cancer Research UK Beatson Institute,United Kingdom of Great Britain and Northern Ireland,,,EvoMIL
+Capital One,United States of America,,Industry,Char-CNN-BiLSTM
+Carleton University,Canada,,Academia,TaLK Convolution
+Carnegie Mellon University (CMU),United States of America,,Academia,"MobileBERT,Hanabi 4 player,XLNet,Noisy Student (L2),Libratus,JFT,Convolutional Pose Machines,Listen, Attend and Spell,Cross-Lingual POS Tagger,Boss (DARPA Urban Challenge),Sandstorm (DARPA Grand Challenge I),Probabilistic modeling for object recognition,n-gram LM,System 11,ALVINN,Time-delay neural networks,Error Propagation,DLRM-12T,Robot Parkour,TCN (148M),SemExp,TCN (P-MNIST),PolyCoder,StarCoder,Back-propagation,Transformer-XL (257M),TrellisNet,DARTS,LSTM (2018),ENAS,AWD-LSTM-MoS + dynamic evaluation (WT2, 2017),SantaCoder,Incoder-6.7B,Mamba-24M (SC09),Mamba-2.8B,Part-of-sentence tagging model,Named Entity Recognition model,PeptideBERT,SEST,PhraseCond,Aya,DEQ-Transformer (Medium, Adaptive Embedding),Transformer-XL + AutoDropout (WT2),DEQ-Transformer (Post-LN) + Jacobian Regularisation,NLM,VideoPoet,AWD-LSTM-MoS + dynamic evaluation (PTB, 2017),TCN (13M),DARTS (second order),DEQ-TrellisNet,Transformer-XL-ptb,TrellisNet-MoS (1.4x larger) PTB,Distributed representation NN,Translation-invariant MLP,Innovative Drug-like Molecule Generation from,Mamba 2, 2.7B,AbGPT,CRYSTALCODER,Amber,NAEPro,GPT-MolBERTa, TC-DNN-BLSTM-DNN,HR-ResNet101,Segmental RNN"
+"CEC-Eagle Soul (Shenzhen) Intelligent Interconnection Co., Ltd.",China,https://ceceagle.com/,"Industry,Government",
+Cedars-Sinai Medical Center,United States of America,,,CHIEF
+CENPARMI,Canada,,Academia,TFE SVM
+Center for Development of Advanced Computing (C-DAC),India,,Government,
+Central China Normal University,China,,Academia,SAAMBE-MEM
+Central South University,China,,Academia,MolMVC
+CentraleSupelec,France,,,Novae
+Centre de Recherche en Automatique de Nancy (CRAN),France,,Academia,TFE SVM
+Cerebras Systems,Multinational,,Industry,"Jais,Cerebras-GPT-13B,BTLM-3B,GenSLM,Sparse Wide GPT-3 Small"
+Cerenaut,Australia,,,RSM
+Chai discovery,United States of America,,Industry,CHAI-1
+Chalmers University of Technology,Sweden,,Academia,"ProteinGAN,PepINVENT"
+Chan Zuckerberg Initiative,United States of America,,Research collective,"TAPE Transformer,CELLE-2"
+Chandar Research Lab,,,,AMPLIFY
+Changsha High-tech Zone Administrative Committee,China,,Government,
+Charité-Universitätsmedizin Berlin,Germany,,Academia,KinoML
+Charles University,Czechia,,Academia,DeepStack
+Chemix,United States of America,,Industry,MACE-MP-0
+Chengdu AI Computing Center,China,https://www.cdzs.cn/,Government,
+China Medical University Hospital,China,,,DeepRelax
+China Mobile,China,,Industry,Jiutian
+China National Health Development Research Center,China,,Academia,GraphMS
+China Telecom,China,,Industry,"TeleChat,Telechat2-115B"
+China Unicom,China,,Industry,Honghu Graphic
+China Unicom Shanghai Lingang AI Computing Center,China,,Industry,
+China-ASEAN AI Computing Center,China,https://www.ca-aicc.com/index.html,"Government,Industry",
+China-Singapore International Supercomputing Center ,China,,Industry,
+Chinese Academy of Agricultural Sciences,China,,Academia,PLLaMa
+Chinese Academy of Mathematics and System Science,China,,Academia,DiffSBDD
+Chinese Academy of Sciences,China,,Academia,"DANet,ESRGAN,SENet (ImageNet),Multi-task Cascaded CNN,Trajectory-pooled conv nets,Zidong Taichu,FLM-101B,NAS+ESS (156M),genCNN + dyn eval,Integer Transformer,MASSA,DecompDiff,RiboCode,Pro-PRIME,LEGO,IgGM,stFormer,ACF-WIDER,3DDFA,CCL"
+Chinese University of Hong Kong (CUHK),"Hong Kong,China",,Academia,"ESRGAN,PSPNet,Multi-task Cascaded CNN,Trajectory-pooled conv nets,Cascaded LNet-ANet,PolyNet,TSN,DITTO,SPHINX (Llama 2 13B),InternImage,OneLLM,Quantized ADMM,Stacked-LSTM+PruningNo,MemSizer (language modeling),Transformer LM + MinSen,Mistral 7B + OVM,HuatuoGPT,ADP-FAIRSEQ+NGRAMRES,ADP-FAIRSEQ + NGRAMRES,InternLM2-20B,AtomFlow,RNA-FM,CrossBind,RiboDiffusion,ParetoDrug,MPDF,InstructPLM,CFSS,CCL,TA-CNN,InternVL1.5"
+Chongqing AI Innovation Center,China,,"Government,Industry",
+Chongqing University,China,,Academia,"GRU + p-tHSM (pretrain via Brown) (WT103),GRU + p-tHSM (pretrain via Brown) (PTB),GRU + p-tHSM (pretrain via Brown) (WT2),GraphEC,ConoDL"
+Chongqing University Cancer Hospital,China,,,CHIEF
+Chung Yuan Christian University,Taiwan,,Academia,YOLOv9-E
+CIFAR AI Research,Canada,,Research collective,"KEPLER,ONLSTM-SYD,L_UL-seq,Cutout-regularized net,Skip-Thoughts,AtomFlow,AMPLIFY,Protst,Structure-Informed Protein Language Model,GearNet,ESM-GearNet,Intelligent Go-Explore (IGE),AMPLIFY"
+Cineca,Italy,,Academia,
+City University of New York,United States of America,,Academia,MMAPLE
+Clemson University,United States of America,,Academia,SAAMBE-MEM
+"Cloud Capital (Suzhou, Anhui) Big Data Development Co., Ltd",China,http://www.ydszdshj.com/,Government,
+Cloud Company,China,,Industry,
+Cohere,Canada,,Industry,"Cohere Command,Cohere Embed,Tranception,Aya,Cohere Command Light,Command R+,Command R,Takane"
+Cohere for AI,"Multinational,Canada",non-profit research lab https://cohere.com/research  not to be confused with Cohere,Industry,"Aya,Command R+,Command R,Aya Expanse 32B,Aya Expanse 8B"
+Collaborations Pharmaceuticals,United States of America,,Industry,MegaSyn
+Collaborative Research Institute Intelligent Oncology ,Germany,,Research collective,BetterBodies
+Collège de France,France,,Academia,Bayesian Starcraft
+Colombia University,United States of America,,Academia,"JURA Bio Model,Genie (bio)"
+Columbia University,United States of America,,Academia,"NeuMF (Pinterest),Ankh_large,ViT-G (model soup),Binarized Neural Network (MNIST),Ferret (13B),StarCoder,Dropout-LSTM+Noise(Bernoulli) (WT2),FinGPT-13B,Ankh_base,ProGen2-xlarge,LLaVA,OpenFlamingo,LSTM+Noise(Beta),AWD-LSTM-MoS+Noisin+dynamic evaluation,Dropout-LSTM+Noise(Laplace),Dropout-LSTM+Noise(Bernoulli) (PTB),Genie 2 (bio),RFdiffusion,AminoBert,eFold,DRGN-AI"
+Compaq CRL,United States of America,,Industry,Decision tree (classification)
+Complutense University of Madrid,Spain,,Academia,Invariant image recognition
+Compute Canada,Canada,,Academia,
+Concordia University,Canada,,Academia,SPOT
+Contextual AI,United States of America,,Industry,"OLMoE,GRITLM 7B,GRITLM 8x7B,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,s1"
+Continental AG,Germany,,Industry,
+CoreWeave,United States of America,,Industry,
+Cornell Aeronautical Laboratory,United States of America,,Academia,"Perceptron Mark I,Perceptron (1960)"
+Cornell University,United States of America,,Academia,"DenseNet-264,3D city reconstruction,Thumbs Up?,Sparse coding model for V1 receptive fields,Perceptron Mark I,Transformer + Simple Recurrent Unit,LSTM+GraB,CD-GraB (WT103),CD-GraB (WT2),DiffSBDD,PepPrCLIP,PepMLM,MMAPLE,LF-MMI"
+Cosine,United Kingdom of Great Britain and Northern Ireland,,Industry,Cosine Genie
+Courant Institute of Mathematical Sciences,United States of America,,Academia,"WGAN-GP,Synergistic Face Detector,Hybrid CNN/SVM Object Categorizer,ConvNet Processor,Long-Range Autonomous Off-Road Driving System"
+Covariant,United States of America,,Industry,"TAPE Transformer,RFM-1"
+Craiyon,United States of America,https://www.craiyon.com/,Industry,"DALL-E mega,DALL-E mini"
+CSC – IT Center for Science,Finland,,"Government,Academia",
+CSIRO,Australia,,Government,StarCoder
+CUHK Shenzhen Research Institute,China,,,RNA-FM
+CyberAgent,Japan,,Industry,"OpenCALM,Calm2-7B,Fugaku-LLM"
+Cyberport,"Hong Kong,China",https://www.cyberport.hk/en,"Government,Industry",
+CZ Biohub Network,United States of America,,Academia,
+Czech Technical University,Czechia,,Academia,DeepStack
+Dahua Technology,China,,Industry,Xinghan Foundation Model
+Dalian AI Computing Center,China,,Industry,
+Dalian University of Technology,China,,Academia,GraphMS
+Dana-Farber Cancer Institute,United States of America,,,CHIEF
+Danish Centre for AI Innovation,Denmark,,Industry,
+Daresbury Laboratory,United Kingdom of Great Britain and Northern Ireland,,Academia,MACE-MP-0
+Dartmouth College,United States of America,,Academia,Instruct-GPT + Mind's Eye
+Data61,Australia,,Government,StarCoder
+Databricks,United States of America,,Industry,"Dolly 2.0-12b,DBRX,MosaicML Diffusion"
+datasaur.ai,United States of America,,Industry,"Pythia-12b,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m"
+Dazhou High-tech Innovation Company,China,,"Government,Industry",
+Deci AI,Israel,,Industry,"DeciCoder-1B,DeciLM 6B,DeciCoder-6B"
+Deep Trading,United States of America,,Industry,ProteinBERT
+DeepInfra,,,,
+DeepL,Germany,,Industry,DeepL LLM
+DeepLang AI,China,,Industry,LingoWhale-8B
+DeepMind,United Kingdom of Great Britain and Northern Ireland,,Industry,"Chinchilla,AlphaCode,Gato,RETRO-7B,MuZero VP9,Gopher (280B),GOAT,Student of Games,AlphaFold,Perceiver IO (optical flow),Agent57,AlphaFold 2,AlphaStar,FTW,MuZero,Hanabi 4 player,CPC v2,BigGAN-deep 512x512,IMPALA,Population-based DRL,AlphaGo Zero,AlphaGo Master,AlphaZero,Inflated 3D ConvNet,NoisyNet-Dueling,AlphaGo Lee,Elastic weight consolidation,DQN,Flamingo,Mogrifier RLSTM (WT2),Mogrifier (d2, MoS2, MC) + dynamic eval,DARTS,Relational Memory Core,LSTM (Hebbian, Cache, MbPA),AWD-LSTM,Sparrow,RNN-WER,EMDR,Adaptive Agent,DeepNash,Neuro-Symbolic Concept Learner,Reading Twice for NLU,Distilled Grandmaster,2-layer skip-LSTM + dropout tuning (WT2),SPALM + RelationLM,Transformer-XL + RelationLM,E-SPA,T2R + Random Init,RFA-GATE-Gaussian-Stateful Big,AlphaGo Fan,AlphaFold-Multimer,2-layer skip-LSTM + dropout tuning (PTB),T2R + Pretrain,T2R 75% + Pretrain,SPALM + kNN,$\infty$-former (SM),Multipop Adaptive Continuous Stack (WT2),Multipop Adaptive Continuous Stack (PTB),Gopher (7.1B),Mogrifier RLSTM (PTB),Long-range sequence Compressive Transformers,DARTS (second order),Mogrifier (d2, MC) + dynamic eval,SO3LR,Med-PaLM 2,Med-PaLM,VQ-VAE,EnzymeFlow,AlphaTensor"
+DeepOrigin,"Armenia,United States of America",https://www.deeporigin.com/,Industry,BiosimDock
+DeepScale,United States of America,,,SqueezeNet
+DeepSeek,China,,Industry,"DeepSeek Coder 33B,DeepSeek LLM 67B,DeepSeekMoE-16B,DeepSeek-Coder-V2 236B,DeepSeek-V2 (MoE-236B),DeepSeek-V2.5,Janus 1.3B,DeepSeek-LLM-1.3b-base,DeepSeek-R1-Lite-Preview,DeepSeek-Prover-V1.5,DeepSeekMath 7B,DeepSeek Coder 1.3B,DeepSeek Coder 6.7B,DeepSeek LLM 7B,DeepSeek-V3,DeepSeek-R1,DeepSeek-R1-Zero,Janus-Pro-7B,Janus-Pro-1B"
+deepset,Germany,,Industry,"GBERT-Large,German ELECTRA Large"
+Deezer Research,France,,,"MGK 4 heads (medium),MGK 8 heads (small)"
+Dell Technologies,United States of America,,Industry,
+Denvr Dataworks,Canada,,Industry,
+Dezhou University,China,,Academia,SPIDER2
+Discover Dollar,India,,Industry,StarCoder
+Distributed Research using Advanced Computing (DiRAC),United Kingdom of Great Britain and Northern Ireland,,Government,
+Dongbei University of Technology,China,,Academia,GraphMS
+DP Technology,China,,Industry,"Uni-RNA-L8,Uni-RNA-L-24,Uni-RNA-L12,Uni-RNA-L16"
+Dreamfold,Canada,,Industry,"FoldFlow2,FoldFlow"
+DSO National Laboratories,Singapore,DSO National Laboratories is a national defence research and development organisation in Singapore developing technological solutions for defence and national security.,Government,"SPN-4+KN5,SPN-4"
+Du Xiaoman,China,,Industry,XuanYuan 2.0
+Dublin City University,Ireland,,Academia,genCNN + dyn eval
+Duke University,United States of America,,Academia,"OR-WideResNet,ISS,AlexNet + coordinating filters,PTM-Mamba,PepPrCLIP,PepMLM"
+East China Normal University,China,,Academia,MolPath
+East China University of Science and Technology,China,,Academia,"ProSST,ProtSSN,Pro-PRIME"
+École des Ponts ParisTech,France,,Academia,Rotation
+Ecole Normale Supèrieure,France,,Academia,"Mid-level Features,Spatial Pyramid Matching,RFdiffusion"
+Ecole Polytechnique F´ed´erale de Lausanne (EPFL),Switzerland,,Academia,"Self-Attention and Convolutional Layers,GCRN-M1, dropout,Alleviated TOI 10 (WT103),Alleviated TOI 10 (PTB),Alleviated TOI 10 (WT2),DiffSBDD,Genesis,DiffPALM,RENNAISSANCE,BindCraft,MPNNsol"
+Eindhoven University of Technology,Netherlands,,Academia,"Selfish-RNN (SNT-ASGD) Stacked LSTMs,Selfish-RNN (ON-LSTM),Selfish-RNN (SNT-ASGD)RHNs,Selfish-RNN (AWD-LSTM-MoS)"
+EleutherAI,"Multinational,United States of America",,Research collective,"GPT-NeoX-20B,GPT-Neo-2.7B,StarCoder,SantaCoder,Polyglot-Ko-12.8B,Pythia-12b,GPT-Neo-125M (finetuned),GPT-Neo-1.3B (finetuned),GPT-Neo-1.3B,GPT-Neo-125M,GPT-Neo-2.7B (finetuned),GPT-Neo-2.7B (finetuned on PTB),GPT-J-6B,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+Elyza,Japan,"Elyza is an AI company that specializes in the research, development, and implementation of large-scale language model applications.",Industry,Elyza
+Eni,Italy,,Industry,
+Equall.ai,United States of America,,Industry,ColPali
+ESAT - PSI,Belgium,,Academia,"LSTM+NeuralCache,TF-LM-discourse LSTM (PTB),TF-LM-discourse LSTM (WT2)"
+ETH AI Center,Switzerland,,Research collective,Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation
+ETH Domain,Switzerland,,Academia,
+ETH Zurich,Switzerland,,Academia,"TSN,PG-SWGAN,VD-RHN,Persia,DiT-XL/2 + CADS,EquiDock,Fairseq + UID: variance,Variational RHN + WT,YOLOv8 (reCAPTCHA fine-tuned),RoBERTa (modified),Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation,ColPali,SignalP 6.0"
+EURECOM,France,https://www.eurecom.fr/en,Academia,Markov-driven POS tagger
+EuroHPC JU,Multinational,Public private partnership among EU countries,Government,
+European Bioinformatics Institute,Multinational,,Research collective,"ProtENN2,SignalP 6.0"
+EvolutionaryScale,United States of America,Founded by ex-Meta researchers,Industry,"ESM3 (98B),ESM3-open-small"
+Export and Investment Fund of Denmark,Denmark,,Government,
+ExxonMobil,United States of America,,Industry,
+Facebook,United States of America,,Industry,"DLRM-2022,wave2vec 2.0 LARGE,XLM,RoBERTa Large,ResNeXt-101 32x48d,ResNeXt-50,DeepFace,AdClickNet,LaNet-L (CIFAR-10),Transformer - LibriVox + Decoding/Rescoring,DETR,Retrieval-Augmented Generator,SeamlessM4T,CamemBERT"
+Facebook AI,United States of America,,Industry,"DLRM-2021,DLRM-2020,ResNet-50 Billion-scale,ResNeXt-101 Billion-scale,FixRes ResNeXt-101 WSL,BART-large,MoCo,XLM-RoBERTa,mBART-50,Memformer (4 encoder + 16 decoder)"
+Facebook AI Research,United States of America,,Industry,"HuBERT,SEER,Generative BST,XLMR-XXL,AlphaX-1,Pluribus,Mask R-CNN,RetinaNet-R50,RetinaNet-R101,fastText,Character-enriched word2vec,DenseNet-264,YOLO,ESM1-670M (UR50/S),6-Act Tether,SemExp,DD-PPO,DeLighT,Feedback Transformer,Sandwich Transformer,Base LM + kNN LM + Continuous Cache,Adaptive Inputs + LayerDrop,FAIRSEQ Adaptive Inputs,Transformer (Adaptive Input Embeddings) WT103,GCNN-14,Incoder-6.7B,MSA Transformer,ESM1-670M (UR50/D),ESM1-670M (UR100),ESM1-85M,ESM1-43M,ESM1b,ESM1v,Big Transformer for Back-Translation,DINOv2,Stack RNN,SCRN (Structurally Constrained Recurrent Network),All-attention network + adaptive span,ALiBi (L=3072, Lvalid = 3072),Shortformer,L_UL-seq,Masked Autoencoders ViT-H,XGLM-7.5B,ViT + DINO,Neural cache model (size=2000),Neural cache model (size=2000) (300M),LSTM (PTB),LSTM (WT2),LSTM (WT103),N-gram+Cache,N-gram,Chameleon-34B,FragLlama: Next-fragment prediction for molecular design,VDCNN (on Amazon Review Full dataset),Multi-Token Prediction 7B,Multi-Token Prediction 13B,Audioseal,code2vec,code2seq,DTN (Domain Transfer Network)"
+Factory,United States of America,https://www.factory.ai/,Industry,Code Droid
+Fast.ai,,,,ULM-FiT
+Fastweb,Italy,,Industry,
+Federal Institute of Materials Research and Testing (BAM),Germany,,Academia,MACE-MP-0
+Financial Company P,China,,Industry,
+Fireworks AI,,,,
+FlagAlpha,China,,Research collective,Llama-2-Chinese 13B
+Flatiron Institute,United States of America,,,DeepFRI
+Forschungszentrum Julich,Germany,https://www.fz-juelich.de/en/about-us,Government,StarCoder
+Fox Chase Cancer Center,United States of America,,,vScreenML 2.0
+Foxconn,Taiwan,,Industry,
+FPT Corporation,Vietnam,,Industry,
+FPT Software AI Center,Vietnam,,Industry,"MGK 4 heads (medium),MGK 8 heads (small),ProteinReDiff"
+Fraunhofer Heinrich Hertz Institute,Germany,,Research collective,UDSMProt
+Fraunhofer Institute for Algorithms and Scientific Computing,Germany,,,ConfRank
+Fraunhofer Institute for Translational Medicine and Pharmacology,Germany,,,Automated design of multi-target ligands by generative deep learning
+French Alternative Energies and Atomic Energy Commission (CEA),France,,Government,
+Friedrich Schiller University Jena,Germany,,Academia,"MACE-MP-0,Jaeger"
+Friedrich-Alexander-Universität,Germany,,Academia,ZymCTRL
+Fritz Haber Institute of the Max Planck Society,Germany,,Academia,MACE-MP-0
+Fudan University,China,,Academia,"MOSS-Moon-003,Mnemonic Reader,LLaVA + LVIS-INSTRUCT4V,GroundingGPT,InternLM2-20B,ProtRNA,RNA-FM,OPUS-Design,CrossBind,Beyond ESM2: Graph-Enhanced Protein Sequence Modeling with Efficient,GearBind,4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment,InternVL1.5"
+Fujian AI Computing Center,China,https://ai.fjaicc.com/,Government,
+Fujitsu,Japan,,Industry,"Fugaku-LLM,GraphBP,Takane"
+Future Artificial Intelligence Computing Center,China,,Government,
+Fuzhou University,China,,Academia,IDPFold
+G42,United Arab Emirates,,Industry,
+Galixir Technologies,China,,Industry,AutoDiff
+Gcore,Luxembourg,,Industry,
+Geely Automobile Research Institute (Ningbo) Company,China,,Industry,"F5-TTS,HAM-TTS"
+GENCI,France,,Government,
+Genentech,United States of America,,Industry,LBSTER
+Genmo,United States of America,,Industry,Mochi 1
+Genome Institute of Singapore,Singapore,,Academia,RiNALMo
+George Washington University,United States of America,,Academia,MoEFold2D
+Georgia Institute of Technology,United States of America,,Academia,"6-Act Tether,DD-PPO,UniPi,POKE´LLMON,ProteinGenerator"
+Ghent University,Belgium,,Academia,"Densely Connected LSTM + Var. Dropout,4 layer Densely Connected LSTM"
+Ginkgo Bioworks,United States of America,,Industry,"AminoAcid-0,MLDD3UTRmRRNAS"
+GMD FIRST,Germany,,,
+Goethe University Frankfurt,Germany,,Academia,Automated design of multi-target ligands by generative deep learning
+Google,United States of America,,Industry,"PaLM 2,Minerva (540B),LaMDA,LiMoE,Switch,ProtT5-XXL,BigSSL,GShard (dense),GShard (600B),ALBERT-xxlarge,ELECTRA,MetNet,T5-11B,T5-3B,MnasNet-A1 + SSDLite,MnasNet-A3,EfficientNet-L2,BigBiGAN,Noisy Student (L2),BERT-Large,DeepLabV3+,MobileNetV2,MetaMimic,GPipe (Amoeba),GPipe (Transformer),MobileNet,DeepLab (2017),DeepLabV3,GNMT,Xception,A3C FF hs,Inceptionv4,Inception-ResNet-V2,Wide & Deep,Youtube recommendation model,Diabetic Retinopathy Detection Net,GoogLeNet / InceptionV1,DQN-2015,Deep LSTM video classifier,BatchNorm,Listen, Attend and Spell,Inception v3,Seq2Seq LSTM,Multiresolution CNN,DeepLab,TransE,Word2Vec (large),Word2Vec (small),Ngram corpus,Adaptive Subgrad,YouTube Video Recommendation System,Semi-Supervised Embedding for DL,EfficientNetV2-XL,Unsupervised High-level Feature Learner,RoboCat,GLaM,PaLI,CoAtNet,Conformer + Wav2vec 2.0 + Noisy Student,ContextNet + Noisy Student,ST-MoE,BASIC-L,BASIC-L + Lion,Conformer,ContextNet,ViT-G/14 (LiT),ViT-G (model soup),CT-MoS (WT2),Search-Proven Best LSTM,PaLM-E,mT5-XXL,ByT5-XXL,Transformer + Simple Recurrent Unit,U-PaLM (540B),ProtBERT-BFD,RT-1,TAPE Transformer,LMSI-Palm,Instruct-GPT + Mind's Eye,AudioLM,PaLM-SayCan,TOME,MusicLM,NMT Transformer 437M,M4-50B,Flan-PaLM 540B,Flan-T5 11B,Multitask Unified Model (MUM),Tacotron 2,BIG-G 137B,ViT-22B,SNM-skip,RNN for 1B words,ProtT5-XXL-BFD,CT-MoS + DynamicEval (WT2),CT-MoS (PTB),CT-MoS + DynamicEval (PTB),DistBelief NNLM,DistBelief Speech,DistBelief Vision,Paragraph Vector,Multilingual DNN,ReLU-Speech,DeViSE,SB-LM,KN-LM,Gemma 1.1 7B Instruct,ProtBERT-UniRef,Tacotron,LearnLM-Tutor,DataGemma,Gemini 2.0 Flash,Gemini 2.0 Pro,Gemini 2.0 Flash Thinking"
+Google AI,"Multinational,United States of America",,Industry,"PNASNet-5,PNAS-net,RNMT+,Fairseq + UID: variance,Meta Pseudo Labels"
+Google Brain,United States of America,,Industry,"Phenaki,Primer,UL2,Imagen,Imagen Video,Meta Pseudo Labels,ViT-G/14,Meena,ELECTRA,SimCLR,MobileBERT,EfficientDet,ViT-Base/32,ViT-Huge/14,SimCLRv2,Hanabi 4 player,SpecAugment,XLNet,Big Transfer (BiT-L),AmoebaNet-A (F=448),AmoebaNet-A (F=190),MoE-Multi,Transformer,NASNet-A,CapsNet (MNIST),CapsNet (MultiMNIST),NASv3 (CIFAR-10),Walking Minotaur robot,W2v-BERT,FAIRSEQ Adaptive Inputs,Transformer-XL (257M),ENAS,NAS with base 8 and shared embeddings,Large regularized LSTM,Big Transformer for Back-Translation,ResNet-RS,Mesh-TensorFlow Transformer 4.9B (language),Mesh-TensorFlow Transformer 2.9B (translation),Transformer-XL + AutoDropout (WT2),QT-Opt,Conformer + Wav2vec 2.0 + Noisy Student,CoAtNet,EfficientNetV2-XL,Flan UL2,Transformer-XL-ptb,ST-MoE,BIG LSTM+CNN INPUTS ,10 LSTMS + KN-5 (OPTIMAL WEIGHTS)"
+Google Cloud,"Multinational,United States of America",,Industry,Transformer local-attention (NesT-B)
+Google DeepMind,"United States of America,United Kingdom of Great Britain and Northern Ireland,Multinational",,Industry,"WaveNet,Differentiable neural computer,Deep Deterministic Policy Gradients,Advantage Learning,NTM,RoboCat,Attend-Infer-Repeat,UniPi,Lyria,Agile Soccer Robot,Gemini 1.0 Ultra,GNoME for crystal discovery,GraphCast,AlphaFold-Multimer,AlphaMissense,RT-2,SARA-RT-2,RT-Trajectory,RT-1 + AutoRT,Gemma 7B,Gemini Nano-2,Gemini Nano-1,AlphaGeometry,MADLAD-400 10B,OpenFlamingo,Gemini 1.0 Pro,Gemini 1.5 Pro,FunSearch,VideoPoet,Genie,SIMA,Griffin,Hawk,RT-2-X,Mixture-of-Depths,Imagen 2,The Attentive Reader,Draw,Gemini 1.5 Flash,Gemma 2 9B,Gemma 2 27B,Gemma 2 2B,AlphaGeometry 2,AlphaProof,OpenVLA,AlphaFold 3,AlphaProteo,Table Tennis Agent,GenMS,AlphaChip,Veo,Imagen 3,Med-Gemini-M 1.5,Med-Gemini-2D,Med-Gemini-3D,Soccer Robot,PaliGemma,3-ensemble of Self-ensembles on CIFAR-100,SigLIP,SigLiT,GameNGen,Demostart (in progress),ALOHA Unleashed,Gemini 1.0 Pro Vision,LearnLM-Tutor,Gemini-Exp-1114,DigiRL,Genie 2,Gemma 2B,Gemini 2.0 Flash,Flexi-JEST++,JEST++,Veo 2,Gemini 1.5 Flash 8B,SigLIP,Gemini 2.0 Pro,Gemini 2.0 Flash Thinking"
+Google Research,"Multinational,United States of America",,Industry,"PaLM (540B),Parti,UL2,ALIGN,FLAN 137B,Transformer local-attention (NesT-B),ALBERT,JFT,Transformer,Cross-Lingual POS Tagger,Routing Transformer (WT-103),LongT5,MADLAD-400 10B,Transformer-XL + FWL,Lumiere,Conformer + Wav2vec 2.0 + Noisy Student,CoAtNet,ViT-G/14,ViT-Huge/14,VideoPoet,mT5-XXL,ByT5-XXL,Transformer-XL + AutoDropout (PTB),Local Transformer,ST-MoE,PaLI-X,CoCa,Med-Gemini-M 1.5,Med-Gemini-2D,Med-Gemini-3D,Med-PaLM,Med-PaLM 2,GameNGen,ProtENN2,LearnLM-Tutor"
+Government of China,China,,Government,
+Government of Telangana,India,,Government,
+Grammarly,United States of America,,Industry,CoEdiT-xxl
+Graphcore,United Kingdom of Great Britain and Northern Ireland,,Industry,Luminous Sparse
+Gray Swan,United States of America,,Industry,Cygnet
+Graz University of Technology,Austria,,Academia,Spatiotemporal fusion ConvNet
+Griffith University,Australia,,Academia,"SPIDER2,RNA-MSM"
+Groq,,,,
+Guangdong Academy of Medical Sciences,,,,Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage
+Guangdong L-Med Biotechnology Company,China,,Industry,DeepRelax
+Guangdong Laboratory of Artificial Intelligence and Digital Economy (Pazhou Lab),China,,Government,"RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+Guangdong Provincial People's Hospital,,,,Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage
+Guangdong-Hong Kong-Macao Joint Laboratory of Human-Machine Intelligence-Synergy Systems,China,,Research collective,MASSA
+Guangzhou AI Public Computing Center,China,https://www.aipcc-gz.com/,"Government,Industry",OV-DINO
+Guangzhou Inernational Bio Island,China,,,Pro-PRIME
+Guangzhou National Laboratory,China,,Government,EpiScan
+Gustave Roussy,France,,,Novae
+H. Lee Moffitt Cancer Center and Research Institute,United States of America,,,DrugFormer
+Hailuo AI,Singapore,https://hailuoai.video/,Industry,Hailuo I2V-01-Live
+Hangzhou AI Computing Center,China,,"Government,Industry",
+Hangzhou Institute of Medicine,China,,,RNADiffFold
+Harbin Institute of Technology,China,,Academia,"DnCNN,FLM-101B,RNA-FM"
+Harcam Biomedicines,China,,,OPUS-Design
+Harvard Data Science Initiative,United States of America,,Academia,"TxGNN,PocketGen"
+Harvard Medical School,United States of America,,Academia,"Tranception,Eve,TranceptEve,BiomedGPT (182M),RoseTTAFold2-Lite,JURA Bio Model,AminoBert,DeepFRI,eFold,RENNAISSANCE,CHIEF,Precious3GPT,McMLP,TxGNN,CodonMPNN,EPInformer"
+Harvard TH Chan School of Public Health,United States of America,,Academia,McMLP
+Harvard University,United States of America,,Academia,"Bayesian automated hyperparameter tuning,SNARC,LSTM-Char-Large,UniRep,Rita-XLarge,GenSLM,gLM,HyenaDNA,MicroNet (Adaptive, Cache),1-layer-LSTM,Knowledge distillation student model,RNA-FM,CHIEF,TxGNN,PocketFlow,PlasmidGPT,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,PocketGen"
+Harvard-MIT Program in Health Sciences and Technology,United States of America,,Research collective,TxGNN
+Hebei AI Computing Center,China,,Government,
+Hebrew University of Jerusalem,Israel,,Academia,"ProteinBERT,AudioGen,MultiBand Diffusion,MAGNeT,OpenFlamingo,RFA-GATE-Gaussian-Stateful Big"
+HEC,France,,Academia,KEPLER
+HEC Montreal,Canada,,Academia,"mini-GPT-2+Active-AdamW,AtomFlow,Protst,Structure-Informed Protein Language Model,GearNet,ESM-GearNet,GearBind"
+Hefei Advanced Computing Center,China,,Government,
+Hefei AI Computing Center,China,,Government,
+Hefei Comprehensive National Science Center,China,,Research collective,PocketGen
+Heidelberg University,Germany,,Academia,"VQGAN + CLIP,Projected GAN,LDM-1.45B,ProteinGenerator"
+Heinrich Heine University,Germany,,Academia,SPOT
+Helmholtz-Zentrum Dresden-Rossendorf (HZDR),Germany,,,
+Helsinki University of Technology,Finland,,Academia,Kohonen network
+"Henan Airport Digital City Development Construction Co., Ltd.",China,,Government,
+Henan University,China,,Academia,Lightweight Fine-tuning a Pretrained Protein Language Model for Protein Secondary
+Henan University of Technology,China,,Academia,improved U-Net for chest X-ray images segmentation
+Hengqin Advanced Intelligent Computing Center,China,https://www.gdiist.cn/en/create,Academia,
+HERE Technologies,Switzerland,,,Cloob
+Heriot-Watt University,United Kingdom of Great Britain and Northern Ireland,,Academia,BigGAN-deep 512x512
+hessian.AI,Germany,,Government,
+Heudiasyc,France,,Academia,
+High-Performance Language Technologies (HPLT),Multinational,"Our project name, HPLT, is an acronym for High Performance Language Technologies. We are aiming high at combining large quantities of data, a number of languages and high-performance computing to build powerful and efficient language and translation models. Another goal of this project is to publish the results of this project in a shared space with open licenses.",Research collective,Poro 34B
+Hokkaido University,Japan,,Academia,"ProtT3,pKALM"
+Hong Kong Baptist University,"Hong Kong,China",,Academia,YuYan 11B
+Hong Kong Polytechnic University,"Hong Kong,China",,Academia,"DnCNN,dnaGrinder"
+Hong Kong Science and Technology Parks Corporation (HKSTP),"Hong Kong,China",https://www.hkstp.org/en/,"Industry,Government",
+Hong Kong University of Science and Technology,"Hong Kong,China",,Academia,"InstructBLIP,PIXART-α,MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune),EnzymeFlow,DualNetGO"
+Hong Kong University of Science and Technology (Guangzhou),China,,Academia,
+Huawei,China,,Industry,"Pangu 3.0,Pangu-Weather,Amended-DARTS,GPT-2 + Progressive LRD"
+Huawei Noah's Ark Lab,China,,Industry,"PanGu-α,PanGu-Σ,genCNN + dyn eval,SantaCoder,GPT-2 + Progressive LRD,KnGPT2,PIXART-α,LSTM(large)+Sememe+cell,LSTM(medium)+Sememe+cell,MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune),ParetoDrug"
+Huazhong University of Science and Technology,China,,Academia,"ONE-PEACE,EVA-01,DreamLLM,Beyond ESM2: Graph-Enhanced Protein Sequence Modeling with Efficient,ProTeM,EVA-CLIP (EVA-02-CLIP-E/14+)																											,FABind"
+Hugging Face,"Multinational,United States of America",,Industry,"BLOOM-176B,T0-XXL,IDEFICS-80B,BLOOM-7.1B,BLOOM-1.7B,BLOOM-1B,BLOOM-3B,BLOOM-560M,DistilBERT,StarCoder,SantaCoder,BLUUMI,BLOOMZ-176B,mT0-13B,bge-reranker-large,StarCoder 2 15B,StarCoder 2 7B,StarCoder 2 3B,INTELLECT-1,Zephyr 141B-A39B																																						,Zephyr 7B,Idefics2,IDEFICS-9B"
+Hunan University,China,,Academia,"ESM-NBR,ESM-DBP"
+Hungarian Research Centre for Linguistics,Hungary,,Academia,PULI GPTrio
+Hut 8,United States of America,,Industry,
+IBM,United States of America,,Industry,"Once for All,MS-CNN,Thumbs Up?,IBM Model 4,IBM-5,TD-Gammon,Samuel Neural Checkers,Big-Little Net,StarCoder,AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),Fold2Seq,Big-Little Net (vision),Big-Little Net (speech),Granite 13B,4-gram + 8 DENN,Deep Blue,NASA SMD,Prithvi-100M,Print Recognition Logic,AWD-LSTM-MoS+PDR + dynamic evaluation (PTB),LTE speaker verification system,MoLFormer-XL,Granite 3.0 8B,Granite 3.0 2B"
+IBM Research,"United States of America,Multinational",,Industry,"Structure-Informed Protein Language Model,GearNet,ESM-GearNet,RoBERTa (modified),Granite 20B"
+IDEA CCNL,China,https://www.idea.edu.cn/research/ccnl.html,Academia,Taiyi-Stable Diffusion
+Ideogram,"United States of America,Canada",,Industry,Ideogram v2
+IDIAP,Switzerland,,Academia,"Semi-Supervised Embedding for DL,AWD-LSTM-DRILL + dynamic evaluation† (WT2),AWD-LSTM-DRILL + dynamic evaluation† (PTB)"
+IDSIA,Switzerland,"The Swiss AI Lab IDSIA (Istituto Dalle Molle di Studi sull'Intelligenza Artificiale) is a joint research institute of both the Faculty of Informatics of the Università della Svizzera Italiana and the Department of Innovative Technologies of SUPSI, the University of Applied Sciences of Southern Switzerland.",Academia,"Mitosis,MCDNN (MNIST),6-layer MLP (MNIST),BLSTM for handwriting (1),BLSTM for handwriting (2),CTC-Trained LSTM,BiLSTM for Speech,NEAT,Peephole LSTM,LSTM with forget gates,VD-RHN,AWD-FWM (WT2),Linear Transformer (large),Delta RNN (+ full context),AWD-FWM (PTB),Linear Transformer (small),Variational RHN + WT,Highway Network,DNN EM segmentation,CNN Committee (NIST),CNN Committee (MNIST),High Performance CNN,CNN committee (traffic sign)"
+IEEE,Multinational,,Industry,"Local Binary Patterns for facial recognition,Punish/Reward,CMS-RCNN,NPD,Deep CNN + COTS"
+iFlytek,China,,Industry,"Spark 3.0,Spark 4.0"
+iFLYTEK Research,China,,Industry,SCUBA-D
+Iliad SA,France,,Industry,
+Illuin Technology,France,https://www.illuin.tech/en/,Industry,ColPali
+Imbue,United States of America,,Industry,
+ImmunityBio,United States of America,,Industry,
+Imperial College London,United Kingdom of Great Britain and Northern Ireland,,Academia,"Genesis,DiscDiff"
+Inception,United States of America,,,Jais
+Incubator 491,,,,bRSM + cache
+Indian Institute of Science Education and Research,India,,Government,AlphaMut
+Indian Institute of Technology Delhi,India,,Academia,Decay RNN
+Indian Statistical Institute,India,,Academia,Fuzzy NN
+Indiana State University,United States of America,,,ProteinReDiff
+Indiana University Bloomington,United States of America,,Academia,CryptoGRU
+Indraprastha Institute of Information Technology Delhi,India,,Academia,"Pythia-12b,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m,Designing of thermostable proteins with a desired melting temperature"
+Inflection AI,United States of America,,Industry,"Inflection-1,Inflection-2,Inflection-2.5"
+INRIA,France,,Academia,"SEER,PAGnol-XL,Fisher Vector image classifier,Mid-level Features,Spatial Pyramid Matching,Histograms of Oriented Gradients,SeamlessM4T,DINOv2,ViT + DINO,CamemBERT,Transformer-XL + SIS"
+Insight Centre NUI Galway,Ireland,,Academia,ULM-FiT
+Insilico Medicine AI,"Hong Kong,China",,Industry,"Precious3GPT,Chemistry42"
+Inspur,China,,Industry,"Yuan 1.0,Yuan 2.0"
+InstaDeep,United Kingdom of Great Britain and Northern Ireland,,Industry,"ProtBFN,LLPS,MACE-MP-0,EGNN"
+Institució Catalana de Recerca i Estudis Avançats (ICREA),Spain,,,"PocketVec
+"
+Institucio Catalana de Recerca i Estudis Avancçats,Spain,,Research collective,SS-pLM
+Institut Universitaire de France (IUF),France,,Research collective,"VespaG,SeaMoon"
+Institute for Advanced Study,United States of America,,Academia,"Genetic algorithm,ONLSTM-SYD,ProstT5,VespaG"
+Institute for Numerical Simulation,Germany,,,ConfRank
+Institute for Protein Design,United States of America,,Academia,ProteinGenerator
+Institute for Research in Fundamental Sciences (IPM),Iran (Islamic Republic of),,,SimpleNet
+Institute of Advanced Research in Artificial Intelligence,Austria,,Academia,"Hopfield Networks (2020),Cloob"
+Institute of Information Science (IZUM),Slovenia,,Government,
+Institute of Science and Technology Austria (ISTA),Austria,,Academia,"SparseOPT-175B,QMoE: compressed SwitchTransformer,Transformer-XL + PowerSGD + L-Greco,SparseOPT-66B,SparseOPT-13B,SparseOPT-30B"
+Institute of Structural Biology,Germany,,Academia,Machine learning a model for RNA structure prediction
+Instituto de Ciencias Aplicadas y Technologia,Mexico,,Academia,LIRA
+Intel,United States of America,,Industry,Intel Aurora 1T
+Intel Labs,"Multinational,United States of America",,Industry,"Multi-scale Dilated CNN,Swift,TCN (148M),TCN (P-MNIST),TrellisNet,LSTM (2018),DEQ-Transformer (Post-LN) + Jacobian Regularisation,NoPos,TCN (13M),DEQ-TrellisNet,TrellisNet-MoS (1.4x larger) PTB,DEQ-Transformer (Medium, Adaptive Embedding),Protst"
+Inteligent Systems Lab Amsterdam,Netherlands,,,Fisher Vector image classifier
+International School for Advanced Studies,Italy,,Academia,Machine learning a model for RNA structure prediction
+Internet Company,China,,Industry,
+Internet Service A,China,,Industry,
+Internet Service B,China,,Industry,
+Internet Service K,China,,Industry,
+Internet Service P,China,,Industry,
+Internet Service S,China,,Industry,
+Internet Service U,China,,Industry,
+Iris Energy,Australia,,Industry,
+Isfahan University of Technology,Iran (Islamic Republic of),,Academia,DrugTar
+Islamic Azad University,Iran (Islamic Republic of),,Academia,SimpleNet
+Isomorphic Labs,United Kingdom of Great Britain and Northern Ireland,DeepMind spinoff company,Industry,AlphaFold 3
+Jacobs University,Germany,,Academia,GRUs
+Jacobs University Bremen,Germany,,Academia,RNNsearch-50*
+Jagiellonian University,Poland,,Academia,"MoE-Multi,Fraternal dropout + AWD-LSTM 3-layer (WT2),DeepFRI"
+JancsiTech,China,,Industry,KeAP
+Jane Street,"Multinational,United States of America",,Industry,KataGo
+Japan Atomic Energy Agency,Japan,,Government,
+JD.com,China,https://en.wikipedia.org/wiki/JD.com,Industry,"TransformerXL + spectrum control,ChatRhino"
+Jenni,Singapore,https://jenni.ai/,Industry,Decaying Fast Weights Transformer (WT-103)
+Jeonbuk National University,Korea (Republic of),,Academia,FvFold
+Jiajia Technology (Shanghai),China,https://jiajiagroup.net/,Industry,
+Jiangnan University,China,,Academia,"Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-Terminal Coding Sequences,DAC-CSR"
+"Jiangsu Kunshan High-tech Industrial Investment Development Co., Ltd.",China,,"Government,Industry",
+Jiangsu University of Technology,China,,Academia,KnoMol
+Jinan AI Computing Center,China,https://www.jnaicc.com/,"Government,Industry",
+Jinan University,China,,Academia,"CHIEF,NeoaPred"
+Johannes Kepler University,Austria,,Academia,Cloob
+Johannes Kepler University Linz,Austria,,Academia,Hopfield Networks (2020)
+Johns Hopkins University,United States of America,,Academia,"PNASNet-5,DeepLab (2017),PNAS-net,RNN-SpeedUp,KN5 LM + RNN 400/10 (WSJ),RNN 500/10 + RT09 LM (NIST RT05),BloombergGPT,StarCoder,Verbatim Memory Transformer (182M),ProGen2-xlarge,Frage-AWD-LSTM-MemoryAug-NeuralCache (WT2),Frage-AWD-LSTM-MemoryAug-NeuralCache (PTB),LSTM-MemoryAug (WT2),LSTM-MemoryAug (PTB),Verbatim Memory Transformer (117M),Verbatim Memory Transformer (108M),RNN LM,RNN 1000/5 + RT09 LM (NIST RT05),DFMDock,LF-MMI"
+Johnson & Johnson,United States of America,,Industry,LM-GVP
+Joint Center for Advanced High Performance Computing (JCAHPC),Japan,,Academia,
+Julich Supercomputing Center,Germany,,Government,
+JURA Bio,United States of America,,Industry,JURA Bio Model
+K.D. Feddersen (KDF),China,https://www.kdf.com.cn/en/,Industry,JIANG
+Kakao,Korea (Republic of),,Industry,"KoGPT,RQ-Transformer (LSUN-cat dataset),RQ-Transformer (1.4B params ImageNet dataset),RQ-Transformer (3.8B params ImageNet dataset),ProteinINR"
+Kangwon National University,Korea (Republic of),,Academia,PLUS-RNN
+KARAKURI Inc.,Japan,,Industry,Karakuri LM
+Karlsruhe Institute of Technology,Germany,,Academia,
+Karolinska Institute,Sweden,,Academia,"LEP-AD,PrePR-CT"
+KDDI,Japan,,Industry,
+KE Holdings Inc. (“Beike”),China,https://investors.ke.com/about-us,Industry,"Belle-whisper-larger-v3-turbo-zh ,Belle VL,BELLE-Llama2-13B-chat-0.4M,BELLE-LLaMA-7B-0.6M-enc,BELLE-LLaMA-7B-2M-enc ,BELLE-LLaMA-13B-2M-enc,BELLE-LLaMA-EXT-7B,BELLE-7B-0.2M,BELLE-7B-0.6M ,BELLE-7B-1M,BELLE-7B-2M"
+Key Laboratory of Machine Intelligence and Advanced Computing,China,,,GraphEC
+King Abdullah University of Science and Technology (KAUST),Saudi Arabia,,Academia,"Delta RNN (+ full context),LEP-AD,MiniGPT4 (Vicuna finetune),PrePR-CT"
+Kingsoft,China,,Industry,"NAS+ESS (156M),NAS+ESS (23M)"
+Konan Technology,Korea (Republic of),,Industry,"Konan LLM 13B,Konan LLM 41B"
+Korea Advanced Institute of Science and Technology (KAIST),Korea (Republic of),,Academia,"Web mining + Decision tree recommender,PyramidNet,DiT-XL/2 + Discriminator Guidance,EI-REHN-1000D,Discriminator Guidance,Volcano 13B,EI-REHN-1200D,Protein-Mamba,scHyena,Zephyr 141B-A39B																																						"
+Korea University,Korea (Republic of),,Academia,"MemoReader,DensePhrases,RaSoR,Volcano 13B,SO3LR"
+Kotoba Technologies,Japan,,Industry,Fugaku-LLM
+KT,Korea (Republic of),South Korea mobile carrier,Industry,"Mi:dm 7B,Mi:dm 200B"
+KU Leuven,Belgium,,Academia,LSTM+NeuralCache
+Kuaishou Technology,China,,Industry,"Persia,KwaiYii 13B,KwaiYiiMath,Kling,KwaiYii 175B,KeTu (Kolors)"
+Kunlun Inc.,China,,Industry,Skywork-13B
+Kyiv Polytechnic Institute,Ukraine,,Academia,
+Kyoto University,Japan,,Academia,PLTNUM
+Kyutai,France,,Industry,MAGNeT
+Laboratoire de Physique de l'Ecole Normale (LPENS),France,,Academia,PAGnol-XL
+Laboratório Nacional de Computação Científica,Brazil,,Government,
+LAION,"Multinational,Germany","We are a non-profit organization with members from all over the world, aiming to make large-scale machine learning models, datasets and related code available to the general public.",Research collective,"CLIP ViT-H/14 - LAION-2B,GPT-J-6B"
+Lambda Labs,United States of America,,Industry,
+Lanzhou University,China,,Academia,MPDF
+Large Model Systems Organization,United States of America,,Academia,"Vicuna-13B v0,Vicuna-7B v0,Vicuna-33B-v1.3,Vicuna-13B-v1.3,Vicuna-7B-v1.3,Vicuna-7B-v1.5,Vicuna-13B-v1.5"
+LEAR Team,France,,Academia,Fisher Vector image classifier
+Lehigh University,United States of America,,Academia,BiomedGPT (182M)
+Leipzig University,Germany,,Academia,StarCoder
+Lenovo Research,China,,Industry,"TransfoRNN(d=1024)(2-layer) (WT2),TransfoRNN(d=1024)(2-layer) (PTB)"
+Leonardo SpA,Italy,,Industry,
+Lepton AI,,,,
+LG,Korea (Republic of),,Industry,"Volcano 13B,BITTERS,EXAONE 1.0"
+LG AI Research,Korea (Republic of),,Industry,"PLUS-RNN,EXAONE 3.5 2.4B,EXAONE 3.5 7.8B,EXAONE 3.5 32B,EXAONE 3.0,EXAONE 2.0"
+Ligand Pro,Russia,,Industry,MULAN
+Light of Wuzhen Supercomputing Center,China,,Government,
+Lightblue,Japan,,Industry,Qarasu-14B
+LightOn,France,,Industry,"PAGnol-XL,Rita-XLarge,VLM-4,Lyra-Fr 10B,LightOn Mini"
+LINE Corporation,Japan,,Industry,"Japanese-LM-3.6B,B2T connection (16L)"
+Lingang Laboratory,China,,,ALICE
+Linköping University,Sweden,,Academia,"AF_unmasked,MassiveFold"
+Liquid,United States of America,https://www.liquid.ai/,Industry,LFM 40B
+LLM360,,LLM360 is an open research lab enabling community-owned AGI through open-source large model research and development.,Research collective,"CRYSTALCODER,Amber"
+LORIA,France,https://www.loria.fr/en/,Academia,"Feedback Transformer,Adaptive Inputs + LayerDrop,MultiBand Diffusion"
+Loughborough University,United Kingdom of Great Britain and Northern Ireland,,Academia,CrossBind
+Ludwig Maximilian University,Germany,,Academia,Stable Diffusion (LDM-KL-8-G)
+Ludwig-Maximilians-Universität München,Germany,,Academia,Automated design of multi-target ligands by generative deep learning
+LumaLabs,United States of America,,Industry,"Luma Dream Machine,Luma Photon"
+Lund University,Sweden,,Academia,LearnLM-Tutor
+Magic,United States of America,https://magic.dev/,Industry,LTM-1
+Maluuba,Canada,,Industry,HRA
+Massachusettes General Hospital,United States of America,,,"RoseTTAFold2-Lite,DeepFRI,CHIEF"
+Massachusetts Institute of Technology (MIT),United States of America,,Academia,"Once for All,ProxylessNAS,ResNet-152 + ObjectNet,Cross-lingual alignment,BPL,RL mapping instructions (games),RL mapping instructions (troubleshooting),SACHS,SVM for face detection,GroupLens,Optimized Multi-Scale Edge Detection,Learnability theory of language development,Graph-based structural reasoning,Pandemonium (morse),Self Organizing System,Sequence-based pattern recognition,W2v-BERT,StarCoder,Transformer-XL Large + Phrase Induction,SantaCoder,UniPi,ESM2-15B,ESM2-3B,ESM2-650M,ESM2-150M,ESM2-35M,ESM2-8M,OmegaPLM,Diplodocus,Neuro-Symbolic Concept Learner,Statistical continuous speech recognizer,Aya,EquiDock,DiffDock,MicroNet (Adaptive, Cache),GLM-10B,Skip-Thoughts,GLM-10B-unidirectional,GLM-10B-bidirectional,GLM-2B,RNN Baseline,AWD-LSTM + Phrase Induction + finetuning,OpenVLA,RFdiffusion,DeepFRI,SSA,DiffDock-PP,RNA-FM,iCCCP,Mdgen,AutoDiff,CHIEF,CodonMPNN,BindCraft,MPNNsol,Alphaflow,ESMFlow,NAEPro,Improved motif-scaffolding with SE(3) flow matching,GLA Transformer 1.3B,GLA Transformer 340M,HGRN 1B (WT 103),HGRN2 3B,HGRN2 1B,CryoDRGN,NVILA 15B,NVILA 8B"
+Matsuo Lab,Japan,,,Weblab-10B
+Max Planck Institute for Informatics,Germany,,Academia,"SO3LR,GAWWN"
+Max Planck Institute for Intelligent Systems,Germany,,Academia,"MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune),EnhanceNet"
+Max Planck Institute of Biochemistry,Germany,,Academia,ProteinStructureTransformer
+Max Planck Society,Germany,,Academia,
+McGill University,Canada,,Academia,"StarCoder,BlenderBot 3,EMDR,KnGPT2,ONLSTM-SYD,Mixture-of-Depths,MLN-ASR,STEPS,FoldFlow2,FoldFlow,EnzymeFlow"
+MCloud Company,China,,Industry,
+McMaster University,Canada,,Academia,PepMLM
+Med AI Technology,China,,,"ProtT5-XXL,ProtBERT-BFD,ProtT5-XXL-BFD,ProtBERT-UniRef"
+Medical AI Research Center (MedARC),United States of America,https://www.medarc.ai/,Research collective,MindEye2
+Medical School of Nantong University,China,,Academia,ALICE
+Megvii Inc,China,,Industry,"ShuffleNet v2,ShuffleNet v1,Mono3D++,YOLOX-X,DreamLLM"
+Meituan University,China,,Academia,ConSERT
+Memorial Sloan Kettering Cancer Center,United States of America,,,KinoML
+Meta AI,United States of America,,Industry,"OPT-175B,NLLB,Make-A-Video,Galactica,CICERO,LLaMA-65B,MusicGen,DLRM-12T,Llama 2-70B,MoE-1.1T,ESM2-15B,LLaMA-7B,ViT-G (model soup),Sparse all-MLP,data2vec (vision),data2vec (speech),data2vec (language),OPT-IML (175B),Fairseq-dense 13B,BlenderBot 3,LLaMA-13B,Code Llama-34B,Llama 2-34B,Llama 2-7B,Llama 2-13B,Emu (Meta),Contriever,ImageBind,ESM2-3B,ESM2-650M,ESM2-150M,ESM2-35M,ESM2-8M,Segment Anything Model,AudioGen,EnCodec,MultiBand Diffusion,MAGNeT,Diplodocus,Code Llama-70B,MMS-1B,XGLM-7.5B,Detic,Llama Guard,Code Llama-7B,DiffQ Transformer (16L),MemSizer (language modeling),NoPos,OPT-1.3B,OPT-1.3B (finetuned on PTB),OPT-1.3B (finetuned),OPT-2.7B,OPT-2.7B (finetuned on PTB),OPT-2.7B (finetuned on WT2),OPT-6.7B,OPT-30B,OPT-66B,OPT-125M (finetuned on PTB),OPT-125M (finetuned),LLaMA-33B,DeiT-B,ConvS2S (ensemble of 8 models),Llama 3-70B,Llama 3-8B,LIMA,OPT-350M,Llama 3.1-405B,Llama 3.1-70B,Llama 3.1-8B,Llama 3.2 11B,Llama 3.2 90B,Llama 3.2 1B,Llama 3.2 3B,Movie Gen Video,Movie Gen Audio,Segment Anything Model 2,Code Llama-13B,Llama-3.1-Nemotron-70B-Instruct,Llama 3.3,Apollo 7B,Apollo 3B,Apollo 1.5B"
+MetaMind Inc,United States of America,,Industry,"Constituency-Tree LSTM,Pointer Sentinel-LSTM (medium),Zoneout + Variational LSTM (WT2),Zoneout + Variational LSTM (PTB),Deep RNN,Pointer Sentinel-LSTM"
+Mianbi Intelligence,China,,Industry,"Luca 2.0
+"
+Michigan State University,United States of America,,Academia,"R-Transformer,3DDFA"
+Microsoft,United States of America,,Industry,"Megatron-Turing NLG 530B,DeBERTa,MEB,Theseus 6/768,MT-DNN,Chinese - English translation,HRA,ResNet-1001,ResNet-152 (ImageNet),ResNet-110 (CIFAR-10),SPPNet,DBN for NLP,Stacked Semisuperviser Autoencoders,RNN+LDA+KN5+cache,Turing-NLG,Florence,CODEFUSION (Python),Diffusion-GAN,WizardLM-7B,DeBERTaV3large + KEAR,ISS,Phi-1.5,Phi-2,VALL-E,VALL-E X,WizardCoder-15.5B,Kosmos-2,Multilingual-E5-large,LongNet,WizardLM 70B,BEIT-3,Quantized ADMM,GPT-2 (1.5B, Curriculum Learning 45K),GPT3-6.7B (rerun of original),T2R + Random Init,GPT3-6.7B + muP,phi-3-mini 3.8B,phi-3-medium 14B,T2R + Pretrain,T2R 75% + Pretrain,GPT-2 (117M, SLW 110K),MiniGPT4 + LRV-Instruction,Samba 3.8B,RankNet,phi-3-small 7.4B,ProteinGenerator,HJRSS,phi-3.5-mini,phi-3.5-Vision,GRITLM 7B,GRITLM 8x7B,Microsoft MAI-1,MS-ensemble-speech-recognition,WizardLM-2 8x22B,WizardLM-2 70B,WizardLM-2 7B,ResNet-101 (ImageNet),Florence-2-B (base),Florence-2-L (large)"
+Microsoft Research,"United States of America,United Kingdom of Great Britain and Northern Ireland",,Industry,"DeepNet,MetaLM,Megatron-LM (1T),NÜWA,AMDIM,R-FCN,MSRA (C, PReLU),Fast R-CNN,Deeply-supervised nets,Faster R-CNN,SemVec,3D city reconstruction,CNN Best Practices,Context-dependent RNN,RetNet,CODEFUSION (Python),Segatron-XL large, M=384 + HCP,Table-GPT,GSM,Mnemonic Reader,LLaVA,LLaVA 1.5,AWD-FWM (WT2),Transformer Large + HCP,RNN+LDA,RNN+LSA+KN5+cache (model combination w/ linear extrapolation),RNN,Segatron -XL base, M=150 + HCP,AWD-FWM (PTB),Orca 2-13B,RankNet,Diamond,DiffSBDD,CARP,MIF-ST,scFormer,Aurora,ERNIE-RNA,OmniParser: Interactable Region Detection Model,BitNet b1.58,OmniParser: Icon Description Model,DeBERTaV3large,EnzymeFlow,HiFi - NN,FastSpeech,Phi-1,Phi-4,MoLeR"
+Microsoft Research AI for Science,"United States of America,United Kingdom of Great Britain and Northern Ireland,China,Netherlands,Germany",https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/,Industry,"µFormer,Improved motif-scaffolding with SE(3) flow matching,MatterSim (M3GNet - MatterSim-v1.0.0-5M),MatterSim (Grpaphomer),FABind,MatterGen"
+Microsoft Research Asia,China,,Industry,"Adaptive Input Transformer + RD,Tensorized Transformer (257M),AWD-LSTM-MoS + dynamic evaluation (WT2, 2018),Swin Transformer V2 (SwinV2-G),Tensorized Transformer (core-2),Tensorized Transformer (small),Tensorized Transformer (large PTB),Tensorized Transformer (151M),AWD-LSTM-MoS + dynamic evaluation (PTB, 2018),ResNet-200,Xiaoice,TrOCR,PMLM,FastSpeech 2"
+Midjourney,United States of America,,Industry,"Midjourney V1,Midjourney V6.1"
+Mila - Quebec AI (originally Montreal Institute for Learning Algorithms),Canada,,Academia,"KEPLER,StarCoder,Fraternal dropout + AWD-LSTM 3-layer (WT2),BlenderBot 3,EMDR,HyenaDNA,ONLSTM-SYD,WGAN-GP,ProteinDT,Hyena-3-slim,Mixture-of-Depths,Fraternal dropout + AWD-LSTM 3-layer (PTB),AtomFlow,AMPLIFY,Protst,Structure-Informed Protein Language Model,STEPS,GearNet,ESM-GearNet,FoldFlow,GearBind,MolPhenix,EnzymeFlow,AMPLIFY"
+MiniMax,China,,Industry,"ABAB,MiniMax Video-01,abab6.5,Hailuo I2V-01-Live,abab7"
+Ministry of Education of China,China,,Government,GraSR
+Ministry of Natural Resources (China),China,,Government,ConoDL
+Ministry of Science and ICT,Korea (Republic of),,Government,
+Minzu University of China,China,,Academia,ChatBit
+Mistral AI,France,,Industry,"Mistral 7B,Mixtral 8x7B,Mistral Medium,Mistral Large,Mixtral 8x22B,Codestral,Mistral NeMo,Mistral Large 2,Mistral Small v24.09,Pixtral 12B,Codestral Mamba,Pixtral Large,Ministral 3B,Ministral 8B,Mistral Small 3"
+MIT-IBM Watson AI Lab,United States of America,,"Academia,Industry","Once for All,Cube-Space AutoEncoder,Neuro-Symbolic Concept Learner,GLA Transformer 1.3B,GLA Transformer 340M"
+MITRE,United States of America,A private nonprofit that works closely with the US Government,Industry,
+Mitsubishi Electric Research Labs,United States of America,,Industry,Decision tree (classification)
+Mitsui & Co.,Japan,,Industry,
+Mobvoi,China,https://en.wikipedia.org/wiki/Mobvoi,Industry,"True-Regularization+Finetune+Dynamic-Eval,True-Regularization+Finetune"
+ModelBest,China,,Industry,"MiniCPM-1.2B,MiniCPM-2.4B,MiniCPM-3-4B,CPM-Bee,CPM-Ant
+"
+Mohamed bin Zayed University of Artificial Intelligence (MBZUAI),United Arab Emirates,,Academia,"Jais,ProteinChat,ProTeM,CRYSTALCODER,Amber"
+Molecular Institute of Biology,Spain,,Academia,HiFi - NN
+Monash University,Australia,,Academia,"StarCoder,EN^2AS with performance reward,CoPRA"
+Morgridge Institute for Research,United States of America,,Academia,METL
+MosaicML,United States of America,,Industry,"MPT-7B,MPT-30B"
+Moscow Institute of Physics and Technology,Russia,,Academia,Transformer-XL + RMT
+Moscow State Univeristy,Russia,,Government,
+MTS Systems Corporation (MTS),Russia,,Industry,
+Murdoch University,Australia,,Academia,LTM
+Nabla Bio,United States of America,,Industry,AminoBert
+Nagoya University,Japan,,Academia,Fugaku-LLM
+Nanbeige LLM Lab,China,,Industry,Nanbeige-16B
+Nanhu Brain-Computer Interface Institute,China,,,ALICE
+Nanjing Agricultural University,China,,Academia,BTFBS
+Nanjing Intelligent Computing Center,China,,Government,
+Nanjing Kunpeng Ascend AI Computing Center,China,https://www.njaci.cn/,"Government,Industry",
+Nanjing University,China,,Academia,"Symmetric Residual Encoder-Decoder Net,base LM+GNN+kNN,TCAN (WT2),VideoMAE V2,InternImage,base LM+GNN,Transformer + GFM,AFP-Deep,ESM-AA,InstructPLM,RiboDiffusion,4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment,InternViT-6B, InternVL,InternVL1.5"
+Nanwei Software Group,China,https://www.linewell.com/linewell/gw/index.jsp,Industry,
+Nanyang Central Hospital,China,,Government,improved U-Net for chest X-ray images segmentation
+Nanyang Technological University,Singapore,,Academia,"ESRGAN,FLM-101B,CodeT5-base,base LM+GNN+kNN,LLaVA-NeXT-34B (LLaVA-1.6),Otter,OtterHD-8B,InstructBLIP,base LM+GNN,PMLM"
+Nara Institute of Science and Technology,Japan,,Academia,"ADP-FAIRSEQ+NGRAMRES,ADP-FAIRSEQ + NGRAMRES"
+NASA,United States of America,,Government,"NASA SMD,Prithvi-100M"
+Nat Friedman and Daniel Gross,United States of America,,Industry,
+National Applied Research Laboratories Taiwan,Taiwan,,Government,
+National Cancer Institute,United States of America,,Government,Cancer drug mechanism prediction
+National Chiao Tung University,Taiwan,,Academia,RNN for speech
+National Computational Infrastructure Australia,Australia,,Government,
+National Health Research Institutes Taiwan,Taiwan,,Government,
+National Institute of Advanced Industrial Science and Technology (AIST),Japan,,Academia,"Subformer (122M),Subformer (83M),Subformer (96M)"
+National Institute of Biomedical Innovation,Japan,,Government,PLTNUM
+National Institute of Informatics,Japan,,,"Spectrally Normalized GAN,LUKE"
+National Library of Medicine,United States of America,,Government,Med-PaLM
+National Research University Higher School of Economics,Russia,,Academia,"Compress-LSTM (66M),S + I-Attention (3),Compress-LSTM (4.6M)"
+National Science and Technology Development Agency (NSTDA),Thailand,,Government,
+National Supercomputer Center in Tianjin,China,https://www.nscc-tj.cn/,Government,Tianhe Tianyuan
+National Supercomputing Center in Changsha,China,,Government,
+National Supercomputing Center in Chengdu,China,,Government,
+National Supercomputing Center in Guangzhou,China,,Government,
+National Supercomputing Center in Jinan,China,https://nsccjn.cn/,Government,
+National Supercomputing Center in Kunshan,China,,Government,
+National Supercomputing Center in Shenzhen,China,,Government,GraphEC
+National Supercomputing Center in Taiyuan,China,,Government,
+National Supercomputing Center in Xi'an,China,,Government,
+National Supercomputing Center in Zhengzhou,China,,Government,
+National Supercomputing Center Singapore,Singapore,,Government,
+National Taipei University of Technology,Taiwan,,Academia,YOLOv9-E
+National Tsing Hua University,Taiwan,,Academia,"CT-MoS (WT2),CT-MoS + DynamicEval (WT2),CT-MoS (PTB),CT-MoS + DynamicEval (PTB)"
+National University of Defense Technology,China,Government military school,Academia,
+National University of Singapore,Singapore,,Academia,"NeuMF (Pinterest),Network in Network,Low-Cost Collaborative Network,Show-1,Deep Belief Nets,Goat-7B,ProtT3,RNA-FrameFlow,Integrating Deep Learning and Synthetic Biology: A Co-Design Approach for Enhancing Gene Expression via N-Terminal Coding Sequences,DeepRelax,SAF R-CNN"
+NAVER,Korea (Republic of),,Industry,"HyperCLOVA 82B,StarGAN v2,DiT-XL/2 + Discriminator Guidance,Discriminator Guidance,HyperCLOVA X,LLaMA-65B (LoRA finetuned),LLaMA-7B (LoRA finetuned),LLaMA-13B (LoRA finetuned),LLaMA-33B (LoRA finetuned),LMRec,HyperCLOVA 204B,PLUS-RNN"
+Naver AI Lab,Korea (Republic of),,Industry,"Transformer-XL+AdamP,Transformer-XL+WN+AdamP,CLUE,LMRec"
+Naver Clova,Korea (Republic of),,Industry,"Transformer-XL+AdamP,Transformer-XL+WN+AdamP,CLUE"
+NCSOFT,Korea (Republic of),"NCSOFT is a global game developer with the world's renowned franchises such as Lineage and Guild Wars. To foster human creativity and productivity, we are currently expanding our boundaries into AI. Our vision on AI is to transform AI into a steadfast ally in the creative process. We aim to simplify complex tasks and automate repetitive ones, enabling individuals to unleash their creative potential.",Industry,"VARCO LLM 2.0 base,VARCO LLM 2.0 small Finetuning,VARCO LLM KO/EN-13B-IST ver.1"
+Nebius AI,Netherlands,,Industry,
+NEC Corporation,Japan,,Industry,
+NEC Laboratories,United States of America,,Industry,"NLP from scratch,Deep Multitask NLP Network,Super-vector coding,NEC LLM 13B,Synergistic Face Detector"
+NeevCloud,India,,Industry,
+"NERSC, Lawrence Berkeley National Laboratory",United States of America,,Government,"6-Layer-Tensor-Transformer+AdaHessian,3-Layer-Tensor-Transformer+AdaHessian,RNA language models predict mutations that improve RNA function,MACE-MP-0"
+NetEase,China,,Industry,"YuYan 11B,Zi Yue,Zi Yue 2.0,LaMemo"
+Netflix,United States of America,,Industry,Netflix Recommender System
+Netherlands Cancer Institute,,,,PARM
+"Netnic (Beijing) Digital Communication Technology Co.,Ltd",China,https://netnic.com.cn/,Industry,
+Neural Magic,United States of America,,Industry,"SparseOPT-175B,QMoE: compressed SwitchTransformer,Transformer-XL + PowerSGD + L-Greco"
+New York University (NYU),United States of America,,Academia,"BPL,Visualizing CNNs,OverFeat,Mid-level Features,Deconvolutional Network,Stacked Semisuperviser Autoencoders,DrLIM,Sparse Energy-Based Model,ConvNet similarity metric,ESM2-15B,ESM1-670M (UR50/S),StarCoder,Dropout-LSTM+Noise(Bernoulli) (WT2),LSTM-Char-Large,Large regularized LSTM,Verbatim Memory Transformer (182M),FinGPT-13B,Retrieval-Augmented Generator,DiT-XL/2,ESM1-670M (UR50/D),ESM1-670M (UR100),ESM1-85M,ESM1-43M,ESM1b,ESM1v,ESM2-3B,ESM2-650M,ESM2-150M,ESM2-35M,ESM2-8M,MSA Transformer,AlphaGeometry,NMST+GPT-2,LSTM+Noise(Beta),L_UL-seq,AWD-LSTM-MoS+Noisin+dynamic evaluation,Dropout-LSTM+Noise(Laplace),Dropout-LSTM+Noise(Bernoulli) (PTB),Verbatim Memory Transformer (117M),Verbatim Memory Transformer (108M),ReLU-Speech,Invariant CNN,Vision-based obstacle avoidance system (2005),JURA Bio Model,DeepFRI,Two Stage Feature Extraction (MNIST),Hierarchical Scene Labeling,SVM-CNN,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,OLMo 2 Furious 7B,OLMo 2 Furious 13B"
+Newcastle University,United Kingdom of Great Britain and Northern Ireland,,Academia,MACE-MP-0
+Newport High School,United States of America,,,PLAPT
+NexGen Cloud,Spain,,Industry,
+Nexusflow,United States of America,,Industry,"Athene-70B,NexusRaven-V2,Athene-V2"
+NHK Broadcasting Science Research Laboratories,Japan,,Industry,"Neocognitron,Hierarchical Cognitron"
+NHN Corporation,Korea (Republic of),,Industry,
+Ningbo AI Supercomputing Center,China,,Government,
+NiuTrans Research,China,https://github.com/NiuTrans,,"NAS+ESS (156M),NAS+ESS (23M),Integer Transformer"
+Nixtla,United States of America,,Industry,TimeGPT-1
+Northeastern University,United States of America,,Academia,"Residual Dense Network,RCAN,StarCoder,DNABERT,Stable Video 4D (SV4D)"
+Northeastern University (China),China,https://en.wikipedia.org/wiki/Northeastern_University_(China),Academia,"NAS+ESS (156M),NAS+ESS (23M),Integer Transformer,TAWFN"
+Northern Data Group,Germany,,Industry,
+Northwestern Polytechnical University,China,,Academia,Beyond ESM2: Graph-Enhanced Protein Sequence Modeling with Efficient
+Northwestern University,United States of America,,Academia,"RNNLM + Dynamic KL Regularization (WT2),RNNLM + Dynamic KL Regularization"
+Nostrum Biodiscovery,Spain,,,SS-pLM
+Nous Research,United States of America,,Industry,"StripedHyena-Hessian-7B,Hermes 3 405B,Hermes 3 70B,Hermes 3 8B,DISTRO,Hermes 2 Theta Llama-3 70B"
+Novartis,Switzerland,,Industry,MoLeR
+Novo Nordisk Foundation,Denmark,,Industry,
+NTT Communication Science Laboratories,Japan,,Industry,"Japanese dialog transformers,(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),AWD-LSTM+WT+Cache+IOG (WT2),tsuzumi 7B,RNN + char4-MS-vec,(ensemble): AWD-LSTM-DOC (fin) × 5 (PTB),AWD-LSTM-DOC (fin) (37M),AWD-LSTM-DOC (fin) (23M),AWD-LSTM+WT+Cache+IOG (PTB),tsuzumi 7B upgrade 2024,RNN + char2-MS-vec,RNN + char3-MS-vec"
+NUANCE Communications,United States of America,,Industry,Semi-Supervised Embedding for DL
+Numenta,United States of America,,Industry,bRSM + cache
+NVIDIA,United States of America,,Industry,"Megatron-LM (1T),Megatron-Turing NLG 530B,ProtT5-XXL,Megatron-BERT,Megatron-LM (8.3B),ProgressiveGAN,CALM,ASE,Perfusion,2-layer-LSTM+Deep-Gradient-Compression,Nemotron-3-8B,STT Conformer-Transducer XL,ProteinDT,ProtBERT-BFD,GenSLM,Nucleotide Transformer,Megatron-LM (355M),NeMO Megatron GPT 20B,MegaMolBART,eDiff-I,StarCoder 2 15B,StarCoder 2 7B,StarCoder 2 3B,PAR Transformer Large,ProtT5-XXL-BFD,Megatron-LM (2.5B),Nemotron-4 340B,Mamba2-Hybrid,VISTA-2D,ProtBERT-UniRef,BADGER,NVLM-D 72B,NVLM-H 72B,Nemotron-4 15B,NV-Embed-v1,NV-Embed-v2,Llama-3.1-Nemotron-70B-Instruct,Fugatto 1,NVLM-X 72B,Llama-3.1-Minitron-4B,Minitron 8B,Minitron 4B,Cosmos-1.0-
+Diffusion-14B Video2World,NVILA 15B,NVILA 8B"
+Oak Ridge National Laboratory,United States of America,,Government,"ProtT5-XXL,ProtBERT-BFD,ProtT5-XXL-BFD,ProtBERT-UniRef"
+OctoAI,,,,
+Ohio State University,United States of America,,,"ShapeMol,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+Oncode Institute,,,,PARM
+OneAsia,"Hong Kong,China",,Industry,
+OpenAI,United States of America,,Industry,"GPT-4,Whisper,InstructGPT 175B,Statement Curriculum Learning,DALL·E 2,DALL-E,CLIP (ViT L/14@336px),CLIP (ResNet-50),Codex,GLIDE,GPT-3 175B (davinci),iGPT-XL,iGPT-L,Go-explore,OpenAI Five,OpenAI Five Rerun,GPT-2 (1.5B),Rubik's cube ADR robot,Hide and Seek,GPT-1,OpenAI TI7 DOTA 1v1,GAN-Advancer,ADAM (CIFAR-10),GPT-3.5,GPT-4V,GPT-3.5 Turbo,DALL·E 3,ADM,Whisper v3,Consistency Decoder,GPT-4 Turbo,Whisper v2,GPT2-Large+LHOPT,GPT-2 (355M),GPT3-6.7B (rerun of original),GPT3-6.7B + muP,Sora,Voice Engine,GPT-2 (124M),GPT-2 (774M),GPT-4o,GPT-4o mini,text-embedding-3-small,text-embedding-3-large,text-embedding-ada-002,babbage-002,tts-1,tts-1-hd,o1-mini,o1-preview,MuseNet,o1,GPT-3 6.7B,GPT-3 XL,GPT-3 Small,GPT-3 Medium,GPT-3 Large,GPT-3 2.7B,GPT-3 13B,InstructGPT 6B,InstructGPT 1.3B,InstructGPT 350M,Sora Turbo,o3-mini,o3"
+OpenBioML,Multinational,,Research collective,MIF-ST
+OpenBMB (Open Lab for Big Model Base),China,"founded by ModelBest Inc (面壁智能) & TsinghuaNLP, aims to build foundation models and systems towards AGI",,"MiniCPM-V 2.6,CPM-Ant
+,CPM-Bee"
+OpenLM Research,United States of America,,Research collective,OpenLLaMA-13B
+OpenProtein.ai,Singapore,,Industry,PoET
+Opera,Norway,,Industry,
+OPPO HealthLab,China,,Industry,KeAP
+Oppo Mobile Telecommunications,China,,Industry,LaMemo
+Oracle,United States of America,,Industry,
+Oregon State University,United States of America,,Academia,"DD-PPO,NETtalk reimplementation"
+Ori Industries,United Kingdom of Great Britain and Northern Ireland,,Industry,
+Oristruct Biotech Company,United Kingdom of Great Britain and Northern Ireland,,Industry,SCUBA-D
+Osaka University,Japan,,Academia,
+PanaAI,Singapore,,Industry,
+Pawsey Supercomputing Centre,Australia,,Government,
+Peking University,China,,Academia,"NÜWA,WizardLM-7B,PermuteFormer,AWD-LSTM-MoS + dynamic evaluation (WT2, 2018),GSM,WizardLM 70B,Emu (BAAI),Segatron XL large, M=384,GPT-2-Medium+Pixelfly,MegaScale (175B),MegaScale (530B),MegaScale (Production),AWD-LSTM-MoS + dynamic evaluation (PTB, 2018),GPT-2-Small+Pixelfly,Segatron XL base, M=384,DrugCLIP,DiffPepBuilder,AtomFlow,ProLLaMA,ESM-AA,Protllm,DiffBindFR,RNA-MSM,BindDM,Janus 1.3B,DeepRelax,GeoSeqBuilder,DeepSeekMath 7B,DeepSeek Coder 33B,DeepSeek Coder 1.3B,DeepSeek Coder 6.7B"
+Peng Cheng Laboratory,China,,Academia,"ERNIE 3.0 Titan,MedBERT,Stacked-LSTM+PruningNo,ProLLaMA,RNA-MSM,BindDM"
+Pennsylvania State University,United States of America,,Academia,"DiffStk-MRNN,CHIEF,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+Peptone,United Kingdom of Great Britain and Northern Ireland,,Industry,"ProteinMPNN-DDG,ESMIF-DDG"
+Perplexity,United States of America,,Industry,PPLX-70B-Online
+Petrobras,Brazil,,Industry,
+Petuum,United States of America,,Industry,"CRYSTALCODER,Amber"
+PharMolix,China,,Industry,ESM-AA
+Physical Intelligence,United States of America,https://physicalintelligence.company/ ,Industry,"OpenVLA,π0 (pi-zero)"
+Pika Labs,United States of America,,Industry,Pika 1.5
+PingAn Technology,China,,Industry,ChatMol
+Pittsburgh Supercomputing Center,United States of America,,Academia,
+Polish Academy of Sciences,Poland,,Academia,
+Politecnico di Milano,Italy,,,Prot2Token
+Polytechnique Montreal,Canada,,Academia,"AMPLIFY,AMPLIFY"
+Poolside,United States of America,,Industry,
+POSTECH,Korea (Republic of),,Academia,"RQ-Transformer (LSUN-cat dataset),RQ-Transformer (1.4B params ImageNet dataset),RQ-Transformer (3.8B params ImageNet dataset)"
+Pragmatic Theory Inc.,Canada,,Industry,Pragmatic Theory solution (Netflix 2009)
+Preferred Networks Inc,Japan,,Industry,"Spectrally Normalized GAN,PLaMo-13B,PLaMo-100B"
+Prescient Design,United States of America,,Industry,"Genesis,RNA-FrameFlow,LBSTER"
+Prime Intellect,United States of America,,Industry,"OpenDiLoCo 150M,OpenDiLoCo 1.1B,INTELLECT-1,INTELLECT-MATH"
+Princeton University,United States of America,,Academia,"KEPLER,Multi-scale Dilated CNN,NLP from scratch,NetTalk (transcription),NetTalk (dictionary),SimCSE,Dropout-LSTM+Noise(Bernoulli) (WT2),Transformer + Simple Recurrent Unit,Mamba-24M (SC09),Mamba-2.8B,DensePhrases,RaSoR,H-LSTM+wg+rcp+rcg+wp,LSTM+Noise(Beta),TRIMELMext (247M),AWD-LSTM-MoS+Noisin+dynamic evaluation,Dropout-LSTM+Noise(Laplace),Dropout-LSTM+Noise(Bernoulli) (PTB),TRIMELMext (7M),TRIMELMlong (150M),OLMoE,RNAdiffusion,Mamba 2, 2.7B,MindEye2,FlexSBDD,DRGN-AI,SimPO"
+Profluent Bio,United States of America,,Industry,ProCALM
+PSL University,France,,Academia,Contriever
+Pt. Jawahar Lal Nehru Memorial Medical College,India,,,HaloClass
+Purdue University,United States of America,,Academia,"Heuristic Reinforcement Learning,HaloClass"
+Qianhai Technology Innovation Group,China,,"Government,Industry",
+Qihoo 360 AI Institute,China,,Industry,Low-Cost Collaborative Network
+Qingdao AI Computing Center,China,https://www.qdrgznjszx.com/,Government,
+"Qingtian County State-owned Assets Holding Group Co., Ltd.",China,,Government,
+Queen Mary University of London,United Kingdom of Great Britain and Northern Ireland,,Academia,StarCoder
+Radboud University Medical Center,Netherlands,,Academia,"DDPM,DDIM,PARM"
+Recursion Pharmaceuticals,United States of America,,Industry,
+Reed College,United States of America,,Academia,ProBERTa
+Refact AI,United Kingdom of Great Britain and Northern Ireland,https://refact.ai/,Industry,Refact-1.6B
+Regeneron,United States of America,,Industry,PROPERMAB
+Reka AI,United States of America,"We’re a globally distributed foundation model startup headquartered in Sunnyvale, California. ",Industry,"Reka Core,Reka Flash"
+Reliance Industries,India,,Industry,
+Renmin University of China,China,,Academia,"YuLan-Chat-2 (13B),PepGLAD,FABind"
+Rensselaer Polytechnic Institute,United States of America,,Academia,"Protein-Mamba,AutoDiff"
+Replicate,,,,
+Research Center Juelich,,,,OpenFlamingo
+Research Cluster of Excellence,Germany,,Research collective,AlphaLink
+Rey Juan Carlos University,Spain,,Academia,RNN Baseline
+Rhegen Biotechnology,China,,Industry,RiboCode
+Rhymes AI,United States of America,https://rhymes.ai/,Industry,Allegro
+Rice University,United States of America,,Academia,"MGK 4 heads (medium),MGK 8 heads (small)"
+RIKEN,Japan,,,"Fugaku-LLM,PLTNUM"
+rinna,Japan,,Industry,"bilingual-gpt-neox-4b,Japanese-GPT-1B"
+RISE,Sweden,,Academia,GPT-SW3
+Ritsumeikan University,Japan,,Academia,Spectrally Normalized GAN
+Roblox,United States of America,,Industry,StarCoder
+Rochester Institute of Technology,United States of America,,Academia,DiffStk-MRNN
+Roke Manor Research,United Kingdom of Great Britain and Northern Ireland,,Industry,Motion-Driven 3D Feature Tracking
+Royal Signals and Radar Establishment,United Kingdom of Great Britain and Northern Ireland,,Government,
+RSVP.ai,China,,Industry,"Segatron XL large, M=384,Segatron XL base, M=384"
+Ruhr University Bochum,Germany,,Academia,"EGRU (WT2),EGRU (PTB)"
+Runway,United States of America,,Industry,"Stable Diffusion (LDM-KL-8-G),Gen-2,Gen-1,LDM-1.45B,Gen-3 Alpha"
+Rutgers University,United States of America,,Academia,"Social and content-based classification,Super-vector coding,Genie 2 (bio),DCNN"
+RWKV Foundation,Multinational,"RWKV is an Open Source, non profit group, under the linux foundation. Supported by our sponsors.",Research collective,"RWKV-4 14B,RWKV-4 World (7B),RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+RWTH Aachen University,Germany,,Academia,"Maximum Entropy Models for machine translation,LSTM-300units,TriNet,LSTM LM"
+Saama,United States of America,,,"StarCoder,SantaCoder"
+Saarland University,Germany,,Academia,"Word-Independent-SRNN+KN5,NMM(LSTM+RNN),D-LSRC(200)+KN5,D-LSRC(100)+KN5,KinoML"
+Sakura Internet,Japan,,Industry,
+Salesforce,United States of America,,Industry,"DMN,CodeT5-base,CodeT5-large,CodeT5+,CodeGen-Mono 16.1B,XGen-7B,CodeGen2,Pointer Sentinel-LSTM (medium),Zoneout + Variational LSTM (WT2),CodeGen2.5,xLAM-8x22B"
+Salesforce Research,United States of America,,Industry,"ProGen,4 layer QRNN (h=2500),QRNN,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),VD-LSTM+REAL Large,ProGen2-xlarge,DCN+,BLIP-2 (Q-Former),InstructBLIP,VD-LSTM+REAL Medium,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (PTB),VD-LSTM+REAL Small,Profile Prediction,Flan T5-XXL + BLIP-2"
+"SambaNova Systems, Inc",United States of America,,Industry,"GPT-2-Medium+Pixelfly,GPT-2-Small+Pixelfly"
+Samsung,Korea (Republic of),,Industry,"Fusion in Encoder,MemoReader,Samsung Gauss Language,Samsung Gauss Code,Samsung Gauss Image,Gauss2"
+Samsung R&D Institute Russia,Russia,,Industry,"Fine-tuned-AWD-LSTM-DOC (fin),Compress-LSTM (66M),S + I-Attention (3),Compress-LSTM (4.6M),Discriminator-tuned LSTM"
+Samsung Research America,United States of America,,Industry,BiomedGPT (182M)
+Sandia Corporation,United States of America,,Industry,Pattern recognition and reading by machine
+Sanford Burnham Prebys Institute,United States of America,,,PepPrCLIP
+Sanskriti School,India,,Academia,PLAPT
+SAP,"Multinational,Germany",https://en.wikipedia.org/wiki/SAP,Industry,StarCoder
+Sapienza Università di Roma,Italy,,Academia,Ceramic-MLP
+Saudi Aramco,Saudi Arabia,,"Industry,Government",Aramco Metabrain AI
+Sber,Russia,"Sber (formely Sberbank) is a major Russian state-owned banking and financial services company. As part of this transformation, Sberbank has become one of the major tech companies and launched or acquired businesses in areas like online cinema, music, food delivery, cloud storage, and pharmacies.","Industry,Government","ruDalle: Kandinsky 3.0,ruDalle: Kandinsky 3.1,FRED-T5-XL,ruGPT-3.5 13B"
+SberCloud,Russia,,Industry,
+ScaDS.AI,Germany,,,StarCoder
+Science Applications International Corporation / SAIC,United States of America,,Industry,MLP baggage detector
+Science for Life Laboratory,Sweden,,Research collective,EvoBind2
+Sea AI Lab,Singapore,,,StarCoder
+Search Solutions,Korea (Republic of),,Industry,HyperCLOVA 82B
+SENAI CIMATEC,Brazil,,Academia,
+SenseTime,"Hong Kong,China",,Industry,"InternLM,SenseChat,InternImage,SenseChat 5.0,InternLM2-20B,SenseChat 5.5,CFSS,CCL,InternViT-6B, InternVL,InternVL1.5"
+Sensifai,Belgium,,Industry,SimpleNet
+Seoul National University,Korea (Republic of),,Academia,"EDSR,Deeply-recursive ConvNet,RoseTTAFold All-Atom (RFAA),ProtBERT-BFD,ProtT5-XXL,ProtT5-XXL-BFD,RFdiffusion,RoseTTAFold2-Lite,ProtBERT-UniRef,PLUS-RNN,ProstT5"
+Service Provider T,China,,Industry,
+ServiceNow,United States of America,,Industry,"StarCoder,SantaCoder,StarCoder 2 15B,StarCoder 2 7B,StarCoder 2 3B"
+Sesterce,France,,Industry,
+Shandong University,China,,Academia,"NeuMF (Pinterest),dense-IndRNN+dynamic eval,IDPFold,PepNet"
+Shanghai Academy of Artificial Intelligence for Science,China,,,4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment
+Shanghai Academy of Experimental Medicine,China,,,Pro-PRIME
+Shanghai AI Lab,China,,Academia,"InternLM,VideoMAE V2,SPHINX (Llama 2 13B),InternImage,OneLLM,CODA,InternLM2-20B,InternLM-XComposer,ProtRNA,Protllm,RNA-FM,RNA-MSM,OPUS-Design,CrossBind,ProSST,ProtSSN,Pro-PRIME,CPDiffusion,HGRN 1B (WT 103),HGRN2 3B,HGRN2 1B,InternLM2.5,InternViT-6B, InternVL,InternVL1.5,InternVL2 26B"
+Shanghai Jiao Tong University,China,,Academia,"GraSR,CrossBind,ProSST,ProtSSN,Pro-PRIME,DiffForce,CPDiffusion,IDPFold,stFormer,EnzymeFlow,F5-TTS"
+Shanghai Ocean University,China,,Academia,PreAlgPro
+Shanghai Qi Zhi institute,China,,,"EfficientZero,Robot Parkour,GLM-10B"
+Shanghai Supercomputer Center,China,https://www.ssc.net.cn/en/resource-hardware.html,Government,
+Shanghai Tech University,China,,Academia,Pro-PRIME
+Shanghai Zelixir Biotech,China,,Industry,RNA-FM
+ShanghaiTech University,China,,Academia,"SPHINX (Llama 2 13B),DeepSA"
+Shannon Laboratory,United States of America,,,Perceptron for Large Margin Classification
+Shannon.AI,China,https://shannonai.com/,Industry,"base LM+GNN+kNN,base LM+GNN"
+Shape Therapeutics,United States of America,,Industry,DeepREAD
+SHARP Central Research Laboratories,Japan,,Industry,
+Shenyang AI Computing Center,China,,Government,
+Shenzhen Bay Laboratory,China,,,RNA-MSM
+Shenzhen Institute of Advanced Technology,China,,,"TSN,VideoMAE V2,MASSA,CFSS"
+Shenzhen Maternity & Child Healthcare Hospital,China,,,CHIEF
+Shenzhen Research Institue of Big Data,China,,Academia,HuatuoGPT
+Shenzhen Yuanxiang Technology,China,,Industry,"XVERSE-65B-2,XVERSE-13B-2"
+Shihezi University,China,,Academia,AntiFormer
+Shutterstock,United States of America,"Shutterstock, Inc. is an American provider of stock photography, stock footage, stock music, and editing tools; it is headquartered in New York.",Industry,BITTERS
+SIAM AI,Thailand,,Industry,
+Sichuan University,China,,Academia,"AntiFormer,CHIEF,PDFII"
+SiDi,Brazil,,Industry,
+Siemens Healthineers,Germany,,Industry,
+Silo AI,Finland,Europe's largest private AI lab,Industry,Viking
+Simon Fraser University,Canada,,Academia,DD-PPO
+Singapore Agency for Science,Singapore,,Government,MolMVC
+Singapore University of Technology & Design,Singapore,,Academia,"SPN-4+KN5,TinyLlama-1.1B (1T token checkpoint),TinyLlama-1.1B (3T token checkpoint),SPN-4"
+Singtel,Singapore,,Industry,
+SingularityNET,Multinational,,Industry,
+SK Telecom,Korea (Republic of),sktelecom.com,Industry,"A.X (Adot) 39B,A.X (Adot) 18B,A.X (Adot) 7B"
+Skolkovo Institute of Science and Technology,Russia,,Academia,MULAN
+SLAC National Laboratory,,,,DRGN-AI
+Smart Grid Research Institute,China,,,Protllm
+SMC - Sustainable Metal Cloud,Singapore,,Industry,
+Snowflake,United States of America,https://www.snowflake.com/,Industry,Arctic
+Softbank,Japan,,Industry,
+Sony,Japan,,Industry,CTM (CIFAR-10)
+Soochow University,Taiwan,,Academia,"Adaptive Input Transformer + RD,ExSelfRL"
+Soongsil University,Korea (Republic of),,Academia,GPU implementation of neural networks
+Sorbonne University,France,,Academia,"CamemBERT,DeiT-B,VespaG,SeaMoon,Idefics2"
+South China University of Technology,China,,Academia,NeoaPred
+Southern University of Science and Technology (SUSTech),China,,Academia,"MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune)"
+Southwest Petroleum University,China,,Academia,MolPath
+Stability AI,"Multinational,United Kingdom of Great Britain and Northern Ireland",,Industry,"Stable Diffusion XL (SDXL),StableLM-3B-4E1T,StableLM-Base-Alpha-7B,Japanese StableLM Base Alpha 7B,Stable Beluga 1,Stable Beluga 2,StableLM-2-1.6B,Stable Code 3B,Pythia-12b,Stable LM 2 12B,Stable Diffusion 3,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m,Stable Video 3D (SV3D),Stable Video Diffusion,Stable Video 4D (SV4D),Stable Diffusion 3 Medium,MindEye2,StableLM - Zephyr 3B"
+Stanford Research Institute,United States of America,,Industry,
+Stanford University,United States of America,,Academia,"Megatron-LM (1T),ProGen,ELECTRA,PNASNet-5,PointNet++,PNAS-net,SqueezeNet,PointNet,CRF-RNN,Constituency-Tree LSTM,GloVe (6B),GloVe (32B),Multiresolution CNN,Textual Imager,TensorReasoner,MV-RNN,Optimized Single-layer Net,Recursive sentiment autoencoder,GPU DBNs,Conv-DBN,Stanley (DARPA Grand Challenge 2),RL for helicopter flight,Semantic Taxonomy Induction,SACHS,Max-Margin Markov Networks,LDA,Gradient Boosting Machine,Innervator,MADALINE II,Adaptive Broom Balancer,Learning past tenses,MADALINE I,ADALINE,LMS,Robot Parkour,StarCoder,Hybrid H3-2.7B,S4,Base LM + kNN LM + Continuous Cache,ENAS,2-layer-LSTM+Deep-Gradient-Compression,VD-LSTM+REAL Large,CTM (CIFAR-10),ESM2-15B,ESM2-3B,ESM2-650M,ESM2-150M,ESM2-35M,ESM2-8M,HyenaDNA,RT-Trajectory,OpenFlamingo,Scatterbrain,Hybrid H3-1.3B,Hybrid H3-125M,Hybrid H3-355M,Monarch-GPT-2-Medium,GPT-2-Medium+Pixelfly,rTop-k(distributed setting),Hyena-3-slim,Evo,VD-LSTM+REAL Medium,Truck backer-upper,RNTN,Monarch-GPT-2-Small,GPT-2-Small+Pixelfly,VD-LSTM+REAL Small,Recursive Neural Network,Fragment embedding,Vector Space Model,ISR network,node2vec,Monocular Depth Prediction,Sparse Vision Encoding,OpenVLA,RNAdiffusion,Protein-Mamba,eFold,Alpaca,CHIEF,TxGNN,HiPPO-LegS,DRGN-AI,SignalP 6.0,CryoChains,Apollo 7B,Apollo 3B,Apollo 1.5B,s1"
+State Key Laboratory of Cognitive Intelligence,China,,,"PocketFlow,FlexSBDD"
+State University of New York (SUNY),United States of America,,Academia,
+Stockholm University,Sweden,,Academia,"AF_unmasked,EvoBind2,SignalP 6.0"
+Stockmark,Japan,,Industry,Stockmark-13B
+Sugon,China,,Industry,
+Sun Yat-sen University,China,,Academia,"CODA,PMLM,CHIEF,RiboCode,EpiScan,DeepRelax,GraphEC,Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage,SAF R-CNN"
+Suno,United States of America,,Industry,"Suno Music Generation,Suno Bark Model,Suno v3,Suno v4"
+SUPSI,Switzerland,,Academia,"6-layer MLP (MNIST),Delta RNN (+ full context),Linear Transformer (small),Highway Network"
+SURF,Netherlands,,Government,
+Swedish University of Agricultural Sciences,Sweden,,,PLLaMa
+Swiss Federal Institute of Technology,Switzerland,,Academia,"StarGAN v2,BindCraft"
+Swiss Institute of Bioinformatics,Switzerland,,,"Genesis,DiffPALM"
+Swisscom,Switzerland,,Industry,"Alleviated TOI 10 (WT103),Alleviated TOI 10 (PTB),Alleviated TOI 10 (WT2)"
+Syngentech,China,,Industry,ERNIE-RNA
+TAL Education Group (Xueersi),China,aka Xueersi,Industry,"MathGPT,R-Transformer"
+Taptap,Spain,,Industry,"HGRN2 3B,HGRN2 1B"
+Tata Group,India,,Industry,
+Technical University of Denmark,Denmark,,Academia,"life2vec,MACE-MP-0,SignalP 6.0"
+Technical University of Munich,Germany,,Academia,"ProtT5-XXL,Ankh_large,LSTM,StarCoder,CTC-Trained LSTM,BiLSTM for Speech,BLSTM for handwriting (1),BLSTM for handwriting (2),Ankh_base,Vespa,SeqVec,ProtBERT-BFD,GenSLM,Nucleotide Transformer,ProtT5-XXL-BFD,Predictive Coding NN,ProtBERT-UniRef,DiffDock-PP,ProstT5,TiTok-L,VespaG,Machine learning a model for RNA structure prediction,HiFi - NN"
+Technicolor R&I,France,,,SimpleNet
+Technion - Israel Institute of Technology,Israel,,Academia,"Adaptive Subgrad,CALM,Binarized Neural Network (MNIST),StarCoder,Transformer-XL+AdamGapAware(GA),Lumiere,code2vec,code2seq"
+Technische Universitat Berlin,Germany,,,"SO3LR,AlphaLink"
+Technische Universität Dresden,Germany,,Academia,"EGRU (WT2),EGRU (PTB)"
+Technische Universität Wien,Austria,,Academia,
+Technology Innovation Institute,United Arab Emirates,,Government,"Falcon-40B,Falcon-180B,Falcon-7B,Falcon 2 11B,Falcon Mamba"
+Tecorigin LTD,China,,Industry,HelixFold3
+Tel Aviv University,Israel,,Academia,"Cross-lingual alignment,DeepFace,Perfusion,ViT-G (model soup),NoPos,Lumiere,GameNGen"
+Telecom Operator ,China,,Industry,
+Telecommunication Company,China,,Industry,
+Telefonica,Spain,,Industry,StarCoder
+Temple University School of Pharmacy,United States of America,,Academia,vScreenML 2.0
+Tencent,China,,Industry,"ProteinLM,EquiDock,MBP,Hunyuan,Hunyuan-Large,VideoCrafter2,CHIEF,IgGM,Hunyuan Video,Hunyuan-DiT,Hunyuan Turbo,Hunyuan3D 2.0"
+TensorTour,United States of America,,Industry,OmniVec
+TensorWave,United States of America,,Industry,
+Tesla,United States of America,,Industry,
+Texas A&M,United States of America,,Academia,"NeuMF (Pinterest),ProteinDT,Fold2Seq,CPAC,GraphBP"
+The Mount Sinai Hospital (New York),United States of America,,,TxGNN
+The Scripps Research Institute,United States of America,,,ProteinChat
+The University of Hong Kong,"Hong Kong,China",,Academia,"CODA,RFA-GATE-Gaussian-Stateful Big,PIXART-α,KeAP,GRITLM 7B,GRITLM 8x7B,Janus 1.3B,EPInformer,InternViT-6B, InternVL"
+The University of Tokyo,Japan,,Academia,"Subformer (122M),Subformer (83M),Subformer (96M)"
+Tianjin AI Computing Center,China,,Government,
+Tianjin Medical University,China,,Academia,OmniNA
+Tianjin University,China,,Academia,"Tensorized Transformer (257M),TSLM+MoS (WT2),Tensorized Transformer (core-2),Tensorized Transformer (small),Tensorized Transformer (large PTB),Tensorized Transformer (151M),TSLM+MoS (PTB)"
+Tigerobo,China,,Industry,TigerBot-70B
+Together,United States of America,,Industry,"RedPajama-INCITE-7B-Base,StripedHyena-Hessian-7B,Evo"
+Tohoku University,Japan,,Academia,"(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),RNN + char4-MS-vec,B2T connection (16L),(ensemble): AWD-LSTM-DOC (fin) × 5 (PTB),AWD-LSTM-DOC (fin) (37M),AWD-LSTM-DOC (fin) (23M),Fugaku-LLM,RNN + char2-MS-vec,RNN + char3-MS-vec"
+Tokyo Institute of Technology,Japan,,Academia,"Fugaku-LLM,Swallow,Prothyena,IEV2MOL,Mothra"
+Tokyo Medical and Dental University,Japan,,Academia,Decision tree adaline
+Toloka,Multinational,https://toloka.ai/about-us/,Industry,StarCoder
+Tongji University,China,,Academia,"Amended-DARTS,DNA Fine-Tuned Language Model (DFLM)"
+Toshiba Cambridge Research Laboratory,United Kingdom of Great Britain and Northern Ireland,,Industry,top-down frozen classifier
+TotalEnergies,France,,Industry,
+Toyota Research Institute,United States of America,https://www.tri.global/,Industry,OpenVLA
+Toyota Technological Institute at Chicago,United States of America,,Academia,"ALBERT-xxlarge,ALBERT,Multiscale deformable part model,Incoder-6.7B,RaptorX-Contact,GGNN,Grown to Prune Two-layer stacked LSTM,Byte-mLSTM+emb+WN+VD,Transformer+Recurrent Windows of Context,HSO,GELU for CIFAR-10"
+Tsinghua University,China,,Academia,"GLM-130B,BaGuaLu,CogView,M6-10B,M6-100B,EfficientZero,CPM-Large,KEPLER,Refined Part Pooling,ShuffleNet v2,R-FCN,DenseNet-264,CogVideo,Robot Parkour,RetNet,SimCSE,DITTO,2-layer-LSTM+Deep-Gradient-Compression,CPM-2,CodeGeeX,Adversarial Joint Adaptation Network (ResNet),DeepConPred2,xTrimoPGLM -100B,ProteinLM,GGNN,Neuro-Symbolic Concept Learner,CogVLM-17B,OpenChat 3.5-7B,Emu (BAAI),InternImage,CoRe,DreamLLM,Amended-DARTS,RGC+ASQ (WT2),GLM-10B,CogView2,GLM-10B-unidirectional,GLM-10B-bidirectional,GLM-2B,LSTM(large)+Sememe+cell,LSTM(medium)+Sememe+cell,ADP-FAIRSEQ+NGRAMRES,CogAgent,LaMemo,ADP-FAIRSEQ + NGRAMRES,RGC+ASQ (PTB),GLM-4V-9B,YOLOv10-X,CoPRA,DrugCLIP,RNAdiffusion,ESM-AA,InstructPLM,JetFire (GPT2-LARGE),CLAPE-DB,PepGLAD,ERNIE-RNA,RNACG,BindDM,DecompDiff,CogVideoX,ChatMol,UdanDTI,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,HelixFold3,MiniCPM-1.2B,MiniCPM-2.4B,MiniCPM-3-4B,DeepSeekMath 7B,CPM-Ant
+,CPM-Bee,Eurus-2-7B-PRIME,InternViT-6B, InternVL,InternVL1.5,NVILA 15B,NVILA 8B"
+Tsinghua-Peiking Center for Life Sciences,China,,Research collective,"DrugCLIP,DiffBindFR"
+TU Berlin,Germany,,Academia,PaLM-E
+TU Darmstadt,Germany,,Academia,Rational DQN Average
+TUM School of Life Sciences Weihenstephan,Germany,,Academia,ProstT5
+Twitter,United States of America,,Industry,"Prototypical networks,SRGAN"
+U. S. Naval Research Laboratory,United States of America,,Government,MACE-MP-0
+Uber AI,United States of America,,Industry,Go-explore
+Ubilink AI,Taiwan,https://www.ubilink.ai/en/about_us/,Industry,
+UC Davis,United States of America,,Academia,"Sparse coding model for V1 receptive fields,Memformer (4 encoder + 16 decoder)"
+UC Irvine,United States of America,,Academia,"Multiscale deformable part model,LRR-4X"
+UK Research and Innovation,United Kingdom of Great Britain and Northern Ireland,,Government,
+Ulm University,Germany,,,CRL
+ULSee Inc.,China,,Industry,DnCNN
+Ultralytics,United States of America,,Industry,YOLOv8x
+UMC Utrecht,,,,PARM
+UnfoldML,Sweden,,,StarCoder
+Universidad Nacional de Cordoba,Argentina,,Academia,Fisher Vector image classifier
+Universidade de Lisboa (ULisboa),Portugal,,Academia,$\infty$-former (SM)
+Universitat de Barcelona,Spain,,Academia,"PocketVec
+"
+Université de Lille,France,,Academia,MassiveFold
+Université de technologie de Compiègne,France,,Academia,
+Universite de Technologie de Compiègne – CNRS,France,,Academia,"TransE,MassiveFold"
+Université Grenoble Alpes,France,,Academia,"Contriever,SeaMoon"
+Université Paris Cité,France,,Academia,"VespaG,Novae,CodonTransformer"
+Université Paris-Est,France,,Academia,Wide Residual Network
+University at Buffalo,United States of America,,Academia,"Hybrid H3-2.7B,Scatterbrain,Hybrid H3-1.3B,Hybrid H3-125M,Hybrid H3-355M,Monarch-GPT-2-Medium,GPT-2-Medium+Pixelfly,Monarch-GPT-2-Small,GPT-2-Small+Pixelfly,MPNNsol,HiPPO-LegS"
+University College London (UCL),United Kingdom of Great Britain and Northern Ireland,,Academia,"Phenaki,Inception v3,SmooCT,DARK,DeepLab (2017),Relational Memory Core,LSTM (Hebbian, Cache, MbPA),Retrieval-Augmented Generator,Contriever,DMPFold,LBL,Credibilty Network,PoE MNIST,CoPRA,Soccer Robot"
+University Health Network,Canada,,,scFormer
+University Medicine Greifswald,Germany,,Academia,Jaeger
+University of Adelaide,Australia,,Academia,"Symmetric Residual Encoder-Decoder Net,RefineNet"
+University of Alberta,Canada,,Academia,"DeepStack,UniPi"
+University of Allahabad,India,,Academia,StarCoder
+University of Amsterdam,Netherlands,,Academia,"ADAM (CIFAR-10),Fisher Vector image classifier,Selective Search,Image generation,Pythia-12b,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m"
+University of Auckland,New Zealand,,Academia,DeepFRI
+University of Bayreuth,Germany,,Academia,"ProtGPT2,MACE-MP-0"
+University of Bern,Switzerland,,Academia,"BLSTM for handwriting (1),BLSTM for handwriting (2)"
+University of Bologna,Italy,,Academia,DDGemb
+University of Bonn,Germany,,Academia,"Pooling CNN (Caltech 101),Pooling CNN (NORB),ConfRank"
+University of Bristol,United Kingdom of Great Britain and Northern Ireland,,Academia,LSTM-3-layer+Gadam
+University of British Columbia (UBC),Canada,,Academia,"StarCoder,MACE-MP-0,MolPhenix,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,Intelligent Go-Explore (IGE)"
+University of California (UC) Berkeley,United States of America,,Academia,"Denoising Diffusion Probabilistic Models (LSUN Bedroom),EfficientZero,CURL,SqueezeBERT,CPC v2,SqueezeNet,Image-to-image cGAN,Diabetic Retinopathy Detection Net,LRCN,Fully Convolutional Networks,R-CNN (T-net),Adaptive Subgrad,RL for helicopter flight,Walking Minotaur robot,ASE,TAPE Transformer,Tensor-Transformer(1core)+PN (WT103),UniPi,Incoder-6.7B,Adversarial Joint Adaptation Network (ResNet),DiT-XL/2,ESM1v,ProteinDT,MSA Transformer,ResNet-RS,SeamlessM4T,LLaVA-NeXT-34B (LLaVA-1.6),Tacotron 2,Starling-LM-7B-alpha,6-Layer-Tensor-Transformer+AdaHessian,QT-Opt,Evo,Humanoid Locomotion,GPT-2 (AMPS),Vicuna-7B v0,Vicuna-13B v0,3-Layer-Tensor-Transformer+AdaHessian,Tensor-Transformer(1core)+PN (PTB),GELU for CIFAR-10,ESM3 (98B),ESM3-open-small,TRPO,OpenVLA,BADGER,CELLE-2,MACE-MP-0,RNA language models predict mutations that improve RNA function,Vicuna-33B-v1.3,Vicuna-13B-v1.3,Vicuna-7B-v1.3,Vicuna-7B-v1.5,Vicuna-13B-v1.5,DigiRL,NVILA 15B,NVILA 8B"
+University of California Davis,United States of America,,Academia,HaloClass
+University of California Irvine,,,,Deep learning linking mechanistic models to single-cell transcriptomics data reveals transcriptional bursting in response to DNA damage
+University of California Los Angeles (UCLA),United States of America,,Academia,"DeepLab,BASIC-L + Lion,TransformerXL + spectrum control,FinGPT-13B,Diffractive Deep Neural Network,Mono3D++,RGC+ASQ (WT2),TPM-LVD,FMMformer (2-kernel fast weight + Band20),MGK 4 heads (medium),MGK 8 heads (small),RGC+ASQ (PTB),MuPIPR,MACE-MP-0,T2V-Turbo-v2"
+University of California Riverside,United States of America,,Academia,RNA-DCGen
+University of California San Diego,United States of America,,Academia,"Theseus 6/768,MS-CNN,ResNeXt-50,Perceptron for Large Margin Classification,SRN-Encoded Grammatical Structures,Error Propagation,PDP model for serial order,Back-propagation,RT-Trajectory,NLM,GPT-2 (fine-tuned with HYDRA),RESP AI,DeepFRI,ProteinChat,Text2Protein,CRYSTALCODER,Amber,CompACT-Deep,M3GNet,NVILA 15B,NVILA 8B"
+University of California San Francisco,United States of America,,Academia,"CELLE-2,RNA language models predict mutations that improve RNA function"
+University of California Santa Barbara (UCSB),United States of America,,Academia,"OpenFlamingo,PLLaMa,T2V-Turbo-v2,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,NAEPro,CryoChains"
+University of California Santa Cruz,United States of America,,Academia,"RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+University of Cambridge,United Kingdom of Great Britain and Northern Ireland,,Academia,"FAST,n-gram LM,Variational (untied weights, MC) LSTM (Large),WD+LR+M,Fairseq + UID: variance,LSTM-3-layer+Gadam,Pythia-12b,Pythia-2.8b,Pythia-6.9b,Pythia-160m,Pythia-1b,Pythia-1.4b,Pythia-70m,Pythia-410m,RFdiffusion,DiffSBDD,GearNet,RNA-FrameFlow,MACE-MP-0,MetaMath 70B,MetaMath 7B (LLaMa finetune),MetaMath 7B (Mistral finetune),RENNAISSANCE,DiffForce,CPDiffusion,ProtENN2,F5-TTS"
+University of Canterbury,New Zealand,,Academia,STeLLA
+University of Central Florida,United States of America,,Academia,DTI-LM
+University of Chicago,United States of America,,Academia,"Multiscale deformable part model,GenSLM,Grown to Prune Two-layer stacked LSTM,Transformer+Recurrent Windows of Context,MIF-ST,ProteinReDiff"
+University of Chinese Academy of Sciences,China,,Academia,"OR-WideResNet,BitNet b1.58,RNADiffFold,DecompDiff,LEGO,IgGM,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+University of Copenhagen,Denmark,,Academia,"life2vec,SignalP 6.0"
+University of Delaware,United States of America,,Academia,SYNTERACT
+University of Edinburgh,United Kingdom of Great Britain and Northern Ireland,,Academia,"BPE,Polarity Classifier,GLEE,BOXES,MENACE,top-down frozen classifier,Transformer-XL + RMS dynamic eval,LSTM + dynamic eval,Byte-mLSTM+emb+WN+VD,AWD-LSTM + dynamic eval (PTB),AWD-LSTM + dynamic eval (WT2),Diamond,AlphaLink,RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B,Segmental RNN"
+University of Electronic Science and Technology of China,China,,Academia,"Stacked-LSTM+PruningNo,Transformer + Average Attention Network,RNA-FM"
+University of Erlangen - Nuremburg,Germany,,Academia,HMM Word Alignment
+University of Essex,United Kingdom of Great Britain and Northern Ireland,,Academia,TD(0)
+University of Exeter,United Kingdom of Great Britain and Northern Ireland,,Academia,OmniGenome
+University of Florida,United States of America,,Academia,"AntiFormer,DrugFormer,Importance of higher-order epistasis in large protein sequence-function relationships"
+University of Freiburg,Germany,,Academia,"Decoupled weight decay regularization,Alleviated TOI 10 (WT103),Alleviated TOI 10 (PTB),Alleviated TOI 10 (WT2),RNAformer,U-Net,BetterBodies"
+University of Geneva,Switzerland,,Academia,"Samuel Neural Checkers II,Diamond"
+University of Genoa,Italy,,Academia,PAPA
+University of Georgia,United States of America,,Academia,BiomedGPT (182M)
+University of Girona,Spain,,Academia,ZymCTRL
+University of Glasgow,United Kingdom of Great Britain and Northern Ireland,,Academia,EvoMIL
+University of Groningen,,,,PARM
+University of Guelph,Canada,,Academia,Cutout-regularized net
+University of Hyderabad,India,,Academia,Multi-cell LSTM
+University of Illinois Urbana-Champaign (UIUC),United States of America,,Academia,"Word Representations,Semi-Supervised Embedding for DL,Spatial Pyramid Matching,ProBERTa,Transformer-XL Large + Phrase Induction,LMSI-Palm,Super-vector coding,AWD-LSTM + Phrase Induction + finetuning,Samba 3.8B,Protein-Mamba,DecompDiff,McMLP,CRYSTALCODER,Amber,DigiRL,Eurus-2-7B-PRIME"
+University of Iowa,United States of America,,Academia,SPIDER2
+University of Kansas,United States of America,,Academia,Piecewise linear model
+University of Lausanne,Switzerland,,Academia,BindCraft
+University of Le Mans,France,,Academia,VDCNN (on Amazon Review Full dataset)
+University of Lincoln,United Kingdom of Great Britain and Northern Ireland,,Academia,PLLaMa
+University of Liverpool,United Kingdom of Great Britain and Northern Ireland,,Academia,"TransformerXL-LayerFusion-CA,GPT2-LayerFusion-WS"
+University of London,United Kingdom of Great Britain and Northern Ireland,,Academia,"DIABETES,Q-learning,EGRU (WT2),EGRU (PTB)"
+University of Lorraine,France,,Academia,Feedback Transformer
+University of Lubeck,Germany,,Academia,Sparse digit recognition SVM
+University of Lugano,Switzerland,,Academia,6-layer MLP (MNIST)
+University of Luxembourg,Luxembourg,,Academia,SO3LR
+University of Macau,Macao,,Academia,AntiFormer
+University of Maine,United States of America,,Academia,GRUs
+University of Manchester,United Kingdom of Great Britain and Northern Ireland,,Academia,"aLSTM(depth-2)+RecurrentPolicy (WT2),aLSTM(depth-2)+RecurrentPolicy (PTB)"
+University of Maryland,United States of America,,Academia,"Domain Adaptation,Hiero,LLaVA + LVIS-INSTRUCT4V,MiniGPT4 + LRV-Instruction,AF2RAVE,DCNN"
+University of Massachusetts Amherst,United States of America,,Academia,"retrieval-quality-kNN-LMs,Transformer-C,ASE+ACE"
+University of Massachusetts Lowell,United States of America,,Academia,LRCN
+University of Michigan,United States of America,,Academia,"Phenaki,Stacked hourglass network,GoogLeNet / InceptionV1,Optimized Single-layer Net,Monarch-GPT-2-Medium,TripletRes,Monarch-GPT-2-Small,GAWWN"
+University of Minnesota,United States of America,,Academia,"SVD in recommender systems,CoEdiT-xxl,Protein-Mamba,MindEye2"
+University of Missouri,United States of America,,Academia,"DNCON2,RNA-FrameFlow,Prot2Token,TransFew"
+University of Montpellier,France,,,PeTriBERT
+University of Montreal / Université de Montréal,Canada,,Academia,"A3C FF hs,GRUs,Maxout Networks,Deep rectifier networks,Feedforward NN,Stacked Denoising Autoencoders,Word Representations,Denoising Autoencoders,Empirical evaluation of deep architectures,Greedy layer-wise DNN training,Fraternal dropout + AWD-LSTM 3-layer (WT2),RNN (SGD+CLR) (PTB),GPT-2+Active-SGD (WT 103),Hyena-3-slim,GRU + p-tHSM (pretrain via Brown) (WT103),GRU + p-tHSM (pretrain via Brown) (PTB),GRU + p-tHSM (pretrain via Brown) (WT2),KEPLER,RNNsearch-50*,GANs,RNN (SGD+CLR),NPLM,Binarized Neural Network (MNIST),DOT(S)-RNN,HyenaDNA,ONLSTM-SYD,Fraternal dropout + AWD-LSTM 3-layer (PTB),Neural LM,AtomFlow,Protst,Structure-Informed Protein Language Model,GearNet,ESM-GearNet,FoldFlow2,FoldFlow,GearBind,MolPhenix,EnzymeFlow"
+University of New Mexico,United States of America,,Academia,Deep Learning Enabled Discovery of Kinase Drug Targets in Pharos
+University of New South Wales,Australia,,Academia,"DiffForce,CPDiffusion"
+University of North Carolina,United States of America,,Academia,GoogLeNet / InceptionV1
+University of Notre Dame,United States of America,,Academia,"StarCoder,VRNS-RNN-3-3-5,RNS-RNN"
+University of Oslo,Norway,,Academia,Hopfield Networks (2020)
+University of Oulu,Finland,,Academia,Local Binary Patterns for facial recognition
+University of Oxford,United Kingdom of Great Britain and Northern Ireland,,Academia,"Hanabi 4 player,Photo-Geometric Autoencoder,Inflated 3D ConvNet,SENet (ImageNet),Spatiotemporal fusion ConvNet,CRF-RNN,VGG16,Two-stream ConvNets for action recognition,VGG19,Unsupervised Scale-Invariant Learning,Mogrifier (d2, MoS2, MC) + dynamic eval,AWD-LSTM,AbLang (heavy sequences),CaLM,Tranception,TranceptEve,Rita-XLarge,Bayesian object categorizer,LSTM-3-layer+Gadam,SPALM + RelationLM,Transformer-XL + RelationLM,E-SPA,Multipop Adaptive Continuous Stack (WT2),Multipop Adaptive Continuous Stack (PTB),Eve,RCTM,DiffSBDD,Genesis,FoldFlow2,FoldFlow,MolSnapper,LearnLM-Tutor,Improved motif-scaffolding with SE(3) flow matching,VGG-Face,Template Adaptation
+,DLDL"
+University of Pennsylvania,United States of America,,Academia,"IBM Model 4,Iterative Bootstrapping WSD,BiomedGPT (182M),MuPIPR,CHIEF"
+University of Pittsburgh,United States of America,,Academia,"Polarity Classifier,PhraseCond,AlexNet + coordinating filters,SI-PLM,Innovative Drug-like Molecule Generation from,EnOpt"
+University of Rochester,United States of America,,Academia,"Residual Dense Network,FrameNet role labeling,MahLool"
+University of Rome,Italy,,Academia,DiffSBDD
+University of San Francisco,United States of America,,Academia,ULM-FiT
+University of Science and Technology of China,China,,Academia,"SPPNet,2nd order FOFE-FNNLM,MuggleMath,ProtT3,SCUBA-D,MBP,BindDM,PocketFlow,FlexSBDD,PocketGen,FABind,InternViT-6B, InternVL"
+University of Sheffield,United Kingdom of Great Britain and Northern Ireland,,Academia,"AFP+FPI (PTB),AFP+FPI (WT2),RoseTTAFold All-Atom (RFAA)"
+University of Sherbrooke,Canada,,Academia,Bayesian automated hyperparameter tuning
+University of Siena,Italy,,,"P-Mistral, P-Llama2, P-LLama3, P-gemma,GNN"
+University of South Carolina,United States of America,,Academia,MACE-MP-0
+University of Southern California,United States of America,,Academia,"Phrase-based translation,Joint Probability Machine Translation,Maximum Entropy Models for machine translation,IBM Model 4,TOME,LSTM-Large+Behaviorial-Gating,TransformerXL-LayerFusion-CA,GPT2-LayerFusion-WS,AWD-LSTM+Behaviorial-Gating,LSTM-Medium+Behaviorial-Gating,CRYSTALCODER,Amber,3DMM-CNN"
+University of Strasbourg,France,,,eFold
+University of Stuttgart,Germany,,Academia,MACE-MP-0
+University of Sussex,United Kingdom of Great Britain and Northern Ireland,,Academia,Automated WSD via WordNet
+University of Sydney,Australia,,Academia,MindEye2
+University of Technology Sydney,Australia,,Academia,"Refined Part Pooling,LRSO-GAN,Low-Cost Collaborative Network,EN^2AS with performance reward,ProtChatGPT"
+University of Texas at Austin,United States of America,,Academia,"Deep LSTM video classifier,HyperNEAT,AWD-LSTM + MoS + Partial Shuffled,Detic,AdvSoft + 4 layer QRNN + dynamic evaluation,Adversarial + AWD-LSTM-MoS + partial shuffled,4 layer QRNN + dynamic evaluation,MGK 4 heads (medium),MGK 8 heads (small),LISSOM"
+University of Texas at Houston,United States of America,,Academia,MedBERT
+University of Texas at San Antonio,United States of America,,Academia,Refined Part Pooling
+University of Texas Health Science Center,United States of America,,,"AntiFormer,DrugFormer"
+University of Texas Southwest Medical Center,United States of America,,,RoseTTAFold2-Lite
+University of Toronto,Canada,,Academia,"Prototypical networks,BPL,ADAM (CIFAR-10),DBN for NLP,AlexNet,Dropout (MNIST),Dropout (TIMIT),Dropout (CIFAR),Dropout (ImageNet),Bayesian automated hyperparameter tuning,Stacked Denoising Autoencoders,ReLU (NORB),ReLU (LFW),Deep Boltzmann Machines,Semantic Hashing,Restricted Bolzmann machines,Dimensionality Reduction,Deep Belief Nets,RBM Image Classifier,RNN+weight noise+dynamic eval,PreTrans-3L-250H,DBLSTM,RNN-WER,ProteinDT,LSTM+Adam+Lookahead,Credibilty Network,Order embeddings with layer norm,Order-Embeddings of Images and Language,Layer Normalization: The Attentive Reader,Skip-Thoughts,Layer Normalization: Skip Thoughts,Layer Normalization: Draw,Layer Normalization: Handwriting sequence generation,Dropout: SVHN,SC-NLM,HLBL,ReLU-Speech,ADAPTIVE NLPM,CPCProt,Deep Autoencoders,scFormer,ProteinSGM,BP-DBN,CodonTransformer,MolPhenix"
+University of Trento,Italy,,Academia,Selective Search
+University of Tsukuba,Japan,,Academia,
+University of Turku,Finland,,Academia,"BLUUMI,Poro 34B,Viking"
+University of Twente,Netherlands,,Academia,Selfish-RNN (SNT-ASGD) Stacked LSTMs
+University of Utah,United States of America,,Academia,FMMformer (2-kernel fast weight + Band20)
+University of Vermont,United States of America,,Academia,StarCoder
+University of Virginia,United States of America,,Academia,"DeepUrfold,SimPO"
+University of Warwick,United Kingdom of Great Britain and Northern Ireland,,Academia,"Fractional Max-Pooling,Spatially-Sparse CNN,MACE-MP-0"
+University of Washington,United States of America,,Academia,"Transformer ELMo,Grover-Mega,YOLOv3,ELMo,YOLOv2,YOLO,3D city reconstruction,DOC + Finetune∗ + Partial Shuffle (WT2),ViT-G (model soup),DeLighT,Transformer-XL DeFINE (141M),Incoder-6.7B,RoBERTa Large,S-Norm,UnifiedQA,RoseTTAFold All-Atom (RFAA),Guanaco-65B,LUKE,BIDAF,ATLAS,Unified-IO (XL),OpenFlamingo,ALiBi (L=3072, Lvalid = 3072),T2R + Random Init,Shortformer,NoPos,RFA-GATE-Gaussian-Stateful Big,OLMo-7B,Tk-Instruct,Delphi,T2R + Pretrain,T2R 75% + Pretrain,Transformer-XL DeFINE (107M),Adaptive LSTM + DeFINE,AWD-LSTM + DeFINE,Speaker-independent vowel classification,DOC + Finetune∗ + Partial Shuffle (PTB),OLMoE,RFdiffusion,RoseTTAFold2-Lite,ProteinGenerator,Profile Prediction,HJRSS,Re-Dock,Molmo 72B,Tulu V2 DPO 70B, Tulu 3 (Tülu 3) 70B,ChemNet,Loop-Diffusion,EnzymeFlow,MPNNsol,OLMo 2 Furious 7B,OLMo 2 Furious 13B,Segmental RNN,s1,NVILA 15B,NVILA 8B"
+University of Waterloo,Canada,,Academia,"AR-LDM,Segatron-XL large, M=384 + HCP,Segatron XL large, M=384,Transformer Large + HCP,Segatron -XL base, M=150 + HCP,Segatron XL base, M=384,MindEye2,T2V-Turbo-v2"
+University of West London,United Kingdom of Great Britain and Northern Ireland,,Academia,MMLSTM
+University of Wisconsin Madison,United States of America,,Academia,"HOGWILD!,ProteinDT,LLaVA,LLaVA 1.5,LLaVA-NeXT-34B (LLaVA-1.6),ProteinSetTransformer,LM-Design,METL"
+University of Wollongong,Australia,,Academia,dense-IndRNN+dynamic eval
+University of Zagreb,Croatia,,Academia,RiNALMo
+University of Zurich,Switzerland,,Academia,"Rethinking Molecular Design: Integrating Latent Variable and Auto-Regressive Models for Goal Directed Generation,BindCraft"
+University Paris-Saclay,France,,Academia,"DDPM,DDIM,ColPali"
+Uppsala University,Sweden,,Academia,"AF_unmasked,MACE-MP-0"
+Upstage,Korea (Republic of),,Industry,Solar-10.7B
+US Department of Defense,United States of America,,Government,
+US Department of Energy,United States of America,,Government,
+UT Austin,United States of America,,Academia,"Diabetic Retinopathy Detection Net,LRCN,λ-WASP,Diffusion-GAN"
+Utrecht University,Netherlands,,Academia,"Internal functionality of visual invariants,DDPM-IP (CelebA),Jaeger"
+Valence Labs,Canada,,Industry,MolPhenix
+Vector Institute,Canada,,Academia,"Cutout-regularized net,AR-LDM,scFormer,CodonTransformer,MolPhenix,Intelligent Go-Explore (IGE)"
+Verily Research,United States of America,,Industry,Molecular Diffusion Models with Virtual Receptors
+Vilnius University,Lithuania,,Academia,ProteinGAN
+Vingroup,Vietnam,,Industry,
+VinUniversity,Vietnam,,Academia,"MGK 4 heads (medium),MGK 8 heads (small)"
+Visterra Inc,United States of America,,Industry,BindCraft
+Visual Computing Institute,Germany,,,TriNet
+vivo AI lab,China,,Industry,"BlueLM 7B,BlueLM 70B,BlueLM 130B,BlueLM 175B"
+VNG Corporation,Vietnam,,Industry,
+Voltage Park,United States of America,,Industry,
+Warsaw University,Poland,,Academia,Regularized SVD for Collaborative Filtering
+Waseda University,Japan,,Academia,BERT-RBP
+WeChat AI,China,,Industry,WeLM
+Weizmann Institute of Science,Israel,https://www.weizmann.ac.il/pages/about-institute,Academia,"StarCoder,Lumiere"
+Wellesley College,United States of America,,Academia,"StarCoder,SantaCoder"
+West Virginia University,United States of America,,Academia,"Deep Learning Enabled Discovery of Kinase Drug Targets in Pharos,Graph-based Semi-Supervised Learning (GSSL) Model on MNIST"
+Westlake University,China,,Academia,"DITTO,GGNN,OmegaPLM,ONLSTM-SYD,Memformer (4 encoder + 16 decoder),ProTrek,SaProt,Re-Dock,GeoAB,PPFlow"
+Willamette University,United States of America,,Academia,
+Williams College,United States of America,,Academia,"True-Regularization+Finetune+Dynamic-Eval,True-Regularization+Finetune"
+Wolfram Research,United States of America,,Industry,PLAPT
+Writer,United States of America,https://writer.com/blog/palmyra/,Industry,"Palmyra Large 20B,Palmyra X 004,Palmyra X 003,Palmyra Vision"
+Wroclaw Tech (Wrocław University of Science and Technology),Poland,,Academia,"RWKV-6 (Finch) 3B,RWKV-5 (Eagle) 7B"
+Wuchang District People's Government,China,,Government,
+Wuhan AI Computing Center,China,https://www.ovaijisuan.com/,Government,Zidong Taichu
+Wuhan University,China,,Academia,
+Wuhan University of Science and Technology,China,,Academia,ERNIE-ViLG 2.0
+Wuhu Integrated Intelligent Computing Center,China,,"Government,Industry",
+X-Mechanics,United States of America,,Research collective,FNetAR Medium
+xAI,United States of America,,Industry,"Grok-1,Grok-0,Grok-1.5,Grok-1.5V,Grok-2,Grok-2 mini"
+Xerox,United States of America,,Industry,"Multi-cause Binary Clustering,Fisher Kernel GMM"
+Xerox Research Centre Europe (XRCE),France,,Industry,"Fisher-Boost,Fisher Vector image classifier"
+Xi’an Jiaotong University,China,,Academia,"DnCNN,SPPNet,LongNet,DreamLLM,PMLM"
+Xiaomi Corp,China,,Industry,"Frage-AWD-LSTM-MemoryAug-NeuralCache (WT2),Frage-AWD-LSTM-MemoryAug-NeuralCache (PTB),LSTM-MemoryAug (WT2),LSTM-MemoryAug (PTB)"
+XTX Markets,United Kingdom of Great Britain and Northern Ireland,,Industry,
+XVERSE Technology,China,http://www.xverse.cn/,Industry,"XVERSE-65B-2,XVERSE-13B-2"
+Yahoo Research,United States of America,,Industry,MatrixFac for Recommenders
+Yale School of Public Health,,,,GITIII
+Yancheng Sub-center of Wuxi National Supercomputing Center,China,,Government,
+Yandex,Russia,,Industry,"YaLM,YandexGPT 3,YaART"
+Yangzhou University,China,,Academia,AFP-Deep
+YDS Pharmatech,United States of America,,Industry,FragLlama
+Yonsei University,Korea (Republic of),,Academia,StarGAN v2
+York University,Canada,,Academia,"Gated HORNN (3rd order),2nd order FOFE-FNNLM"
+Yotta Data Services,India,,Industry,
+YTL Power,Malaysia,,Industry,
+Zhejiang Lab,China,,,"BaGuaLu,InstructPLM,ParetoDrug,MPDF,ProTeM"
+Zhejiang University,China,,Academia,"base LM+GNN+kNN,OntoProtein,LLaMA-7B (protein-oriented instruction-tuned),EVA-01,base LM+GNN,ProtChatGPT,SaProt,InstructPLM,Re-Dock,MBP,RNADiffFold,ParetoDrug,MPDF,ProTeM,GeoAB,PPFlow,KnoMol,FastSpeech,FastSpeech 2"
+Zhejiang University School of Medicine,China,,,"ALICE,KnoMol"
+Zhengzhou University,China,,Academia,MsPBRsP
+Zhijiang Lab,China,https://en.zhejianglab.org/,,AstroOne
+Zhipu AI,China,https://www.zhipuai.cn/en/,Industry,"CodeGeeX,ChatGLM3-6B,CogVLM-17B,CogAgent,GLM-4V-9B,GLM-4 (0520),GLM-4 (0116),GLM-4,CogVideoX,GLM-4-Plus"
+Zhongyuan AI Computing Center,China,https://www.xckpjs.com/,Government,
+Vultr,United States of America,,Industry,
+EmbedWay Technologies (Shanghai) Corporation,China,https://www.embedway.com/?lang=en,Industry,
+AI Company J,China,,Industry,
+Bank J,China,,"Industry,Government",
+Bank Z,China,,"Industry,Government",
+Bank G,China,,"Industry,Government",
+Bank I,China,,"Industry,Government",
+Energy Company,China,,Industry,
+Energy Company B,China,,Industry,
+Manufacturing Company V,China,,Industry,
+Manufacturing Industry O,China,,Industry,
+Research Laboratory H,China,,Academia,
+Telecom Company ,China,,Industry,
+Network Company,China,,Industry,
+Suzhou Supercomputing Center,China,,"Government,Industry",
+National Taiwan University,Taiwan,,Academia,"Llama-3-Taiwan-70B
+,TAIWAN-LLM 13B,TAIWAN-LLM 7B"
+National Science and Technology Council,Taiwan,,Government,"TAIDE-LX-7B,TAIDE LX-13B,Llama 3-TAIDE-LX-8B-Chat-Alpha1"
+Panasonic R&D,Singapore,,Industry,SAF R-CNN
+Scala Data Centers,Brazil,,Industry,
+Moonshot,,,,Moonshot-v1
+Centrin Data Group Limited,China,,Industry,
+"China Communications Northwest Investment Development Co., Ltd.",China,,"Industry,Government",
+"Shanghai WorldUnion Equity Investment Management Co., Ltd.",China,,Industry,
+Hefei Big Data Asset Operation,China,,"Industry,Government",
+"Zhongdian Zhiguang System Technology Co., Ltd.",China,,"Government,Industry",
+Xinjiang SC Center,China,,"Government,Industry",
+"Suzhou Big Data Group Co., Ltd.",China,,"Government,Industry",
+Beijing Super Cloud Computing Center,China,,"Industry,Government",
+StepFun,China,https://www.stepfun.com/,Industry,"Step-2,Step-1.5V,Step-1X"
+Hong Kong University,Hong Kong,,Academia,
+Chinese Supercomputing Center A,China,,"Industry,Government",
+Inner Mongolia High-Performance Computing Center,China,,,
+Tsinghua Tongfang,China,,Industry,
+National Supercomputing Center in Tianjin,China,,"Government,Academia",
+Financial Company B,China,,Industry,
+Research Institute A,China,,Academia,
+Energy Company C,China,,Industry,
+Research Institute B,China,,Academia,
+Manufacturing Company  D,China,,Industry,
+Telecom Company E,China,,Industry,
+Research Institute F,China,,Academia,
+Financial Company G,China,,Industry,
+Research Institute H,China,,Academia,
+Bank K,China,,"Government,Industry",
+Research Institute I,China,,Academia,
+Internet Company K,China,,Industry,
+Internet Company L,China,,Industry,
+Internet Company M,China,,Industry,
+Internet Company N,China,,Industry,
+Internet Company P,China,,Industry,
+Internet Company Q,China,,Industry,
+Bank R,China,,"Industry,Government",
+Chinese Supercomputing Center B,China,,"Industry,Government",
+Internet Company R,China,,Industry,
+"UCloud Technology Co., Ltd.",China,,Industry,
+Internet Company S,China,,Industry,
+Telecommunication Company T,China,,Industry,
+Technology Company U,China,,Industry,
+Internet Company V,China,,Industry,
+Security Center W,China,,Government,
+"Suanova Information Technology Co., Ltd",China,,Industry,
+"Xinjiang Yin Feng Intelligent Computing Technology Co., Ltd.",China,,Industry,
+National Supercomputing Center in Wuxi,China,,Government,
+Recraft,United Kingdom of Great Britain and Northern Ireland,,Industry,Recraft V3
