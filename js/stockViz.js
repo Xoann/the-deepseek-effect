@@ -133,7 +133,7 @@ class StockViz {
         const minutes = totalMinutes % 60;
         return minutes === 0 ? hours.toString() : `${hours}:${minutes < 10 ? "0" + minutes : minutes}`;
       }
-  
+    
       // Draw axes using the composite scale & custom tick formatter
       vis.xAxisGroup.call(
         d3.axisBottom(vis.x)
@@ -141,6 +141,10 @@ class StockViz {
           .tickFormat(formatCompositeTime)
       );
       vis.yAxisGroup.call(d3.axisLeft(vis.y));
+  
+      // Lower all x-axis tick labels with additional dy padding so they don't overlap
+      vis.xAxisGroup.selectAll("text")
+        .attr("dy", "1.5em");
   
       // Draw line using compositeX as the x-coordinate
       const lineGenerator = d3
@@ -162,22 +166,25 @@ class StockViz {
       // Update title
       vis.title.text(`${vis.selectedSymbol} Closing Price (Compressed Trading Hours)`);
   
-      // Reformat x-axis tick labels: if label contains "||", split into two lines
-      vis.svg.selectAll(".x-axis text").each(function() {
-        const textEl = d3.select(this);
-        const parts = textEl.text().split("||");
-        if (parts.length > 1) {
-          textEl.text("");
-          textEl.append("tspan")
-            .attr("x", 0)
-            .attr("dy", "0em")
-            .text(parts[0]);
-          textEl.append("tspan")
-            .attr("x", 0)
-            .attr("dy", "1.2em")
-            .text(parts[1]);
-        }
-      }).style("text-anchor", "middle");
+ // Reformat x-axis tick labels: if label contains "||", split into two lines
+vis.svg.selectAll(".x-axis text").each(function() {
+    const textEl = d3.select(this);
+    const text = textEl.text();
+    if (text.indexOf("||") > -1) {
+      const parts = text.split("||");
+      textEl.text(""); // Clear existing text.
+      textEl.append("tspan")
+        .attr("x", 0)
+        .attr("dy", "1.5em")
+        .text(parts[0]);
+      textEl.append("tspan")
+        .attr("x", 0)
+        .attr("dy", "1em") // Reduced vertical offset for the date
+        .text(parts[1]);
+    } else {
+      textEl.attr("dy", "1.5em");
+    }
+  }).style("text-anchor", "middle");
     }
   
     setSymbol(symbol) {
