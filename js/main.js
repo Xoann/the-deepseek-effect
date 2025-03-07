@@ -7,14 +7,16 @@ const promises = [
 Promise.all(promises)
   .then(([modelsCsv, benchmarksCsv]) => {
     // Process models CSV data
+    console.log("Models data:", modelsCsv[0]);
     let modelsData = modelsCsv.map((item) => ({
       name: item.Model,
       trainingCompute: item["Training compute (FLOP)"],
+      hardware: item["Training hardware"],
     }));
 
     // Filter out models with missing training compute data and convert the value to a number
     modelsData = modelsData
-      .filter((item) => item.trainingCompute !== "")
+      .filter((item) => item.trainingCompute !== "" && item.hardware !== "")
       .map((item) => {
         return {
           ...item,
@@ -24,8 +26,8 @@ Promise.all(promises)
 
     let benchmarksData = benchmarksCsv;
 
-    console.log("First model:", modelsData[0]);
-    console.log("First benchmark run:", benchmarksData[0]);
+    // console.log("First model:", modelsData[0]);
+    // console.log("First benchmark run:", benchmarksData[0]);
 
     // Call the main function with loaded data
     main(modelsData, benchmarksData);
@@ -35,4 +37,11 @@ Promise.all(promises)
   });
 
 // Main function once all data is loaded
-function main(modelsData, benchmarksData) {}
+function main(modelsData, benchmarksData) {
+  const pieVis = new PieVis("hardware-vis", modelsData, {
+    title: "Models by Hardware",
+    slices: ["nvidia", "google", "amd", "intel"],
+    colors: ["#76B900", "#4285F4", "#ED1C24", "#0071C5"],
+    colorHover: ["#5E8C00", "#3366CC", "#9A1C20", "#005CA9"],
+  });
+}
