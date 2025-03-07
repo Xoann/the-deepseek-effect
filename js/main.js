@@ -44,21 +44,20 @@ Promise.all(promises)
 function main(modelsData, benchmarksData, nvdaData, googlData, msftData) {
   // We hold modelsData and benchmarksData for future use, if needed.
   console.log("Stock data (NVDA, GOOG, MSFT) loaded successfully.");
-  
+
   // Instantiate StockViz (make sure stockViz.js is already included in your HTML)
-  const myStockViz = new StockViz("chartDiv", nvdaData, googlData, msftData);
+  const myStockViz = new StockViz("stockVis", nvdaData, googlData, msftData);
 
   // Listen for stock selector changes
-  d3.select("#stock-select").on("change", function() {
+  d3.select("#stock-select").on("change", function () {
     const symbol = d3.select(this).property("value");
     myStockViz.setSymbol(symbol);
   });
-  
+
   const pieVis = new PieVis("hardware-vis", modelsData, {
     title: "Models by Hardware",
     slices: ["nvidia", "google", "amd", "intel"],
-    colors: ["#76B900", "#4285F4", "#ED1C24", "#0071C5"],
-    colorHover: ["#5E8C00", "#3366CC", "#9A1C20", "#005CA9"],
+    colors: ["#76B900", "#f4b400", "#ED1C24", "#0071C5"],
+    colorHover: ["#5E8C00", "#e5a500", "#9A1C20", "#005CA9"],
   });
 }
-

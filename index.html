@@ -6,47 +6,119 @@
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Qzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <!-- WRAPPER -->
-    <div class="container-fluid" style="height: 100vh; padding-top: 1vh">
-      <h1>The Deepseek Effect</h1>
-      <!-- Simple UI to select stock -->
-      <div class="row mt-4">
-        <div class="col-md-12">
-          <label for="stock-select" class="form-label">Select Stock:</label>
-          <select id="stock-select" class="form-select" style="width:auto; display:inline;">
-            <option value="NVDA">NVIDIA</option>
-            <option value="GOOGL">Google</option>
-            <option value="MSFT">Microsoft</option>
-          </select>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">The DeepSeek Effect</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#intro">Introduction</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#visualization1">Market Impact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#visualization2"
+                >Trends & Performance</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#conclusion">Conclusion</a>
+            </li>
+          </ul>
         </div>
       </div>
+    </nav>
 
-      <!-- Chart container -->
-      <div id="chartDiv" style="width: 90%; height: 500px; margin-top: 20px;"></div>
+    <div class="container mt-5">
+      <section id="intro" class="py-5">
+        <div class="row">
+          <div class="col-md-8 mx-auto text-center">
+            <h2>Introduction</h2>
+            <p class="lead">
+              DeepSeek, a powerful yet cost-effective AI model, has
+              significantly impacted the AI market, challenging Nvidia's
+              dominance. This page outlines its impact and the key trends it has
+              influenced.
+            </p>
+          </div>
+        </div>
+      </section>
 
-      <div
-        class="row vis"
-        style="
-          height: 73vh;
-          padding-top: 0;
-          padding-left: 1vh;
-          padding-right: 1vh;
-          padding-bottom: 1vh;
-        "
-      >
-        <div id="hardware-vis"></div>
-      </div>
+      <section id="visualization1" class="py-5 bg-light rounded">
+        <div class="row">
+          <div class="col-md-10 mx-auto text-center">
+            <h2>Market Impact: Nvidia's Financial Hit</h2>
+            <p>
+              DeepSeek's introduction had a significant financial impact on
+              Nvidia, the largest supplier of AI training hardware. With most AI
+              models depending on Nvidia's GPUs, any major shift in the AI
+              landscape has a direct effect on its market value. As DeepSeek
+              gained attention, investors grew concerned about potential
+              disruptions to Nvidia's dominance, leading to a sharp decline in
+              its stock price. The drop reflected fears of reduced reliance on
+              Nvidia’s hardware, impacting its valuation by billions. The
+              following graph will illustrate this stock price drop over time.
+            </p>
+            <div id="stockVis" class="border bg-white rounded shadow vis"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="visualization2" class="py-5">
+        <div class="row">
+          <div class="col-md-10 mx-auto text-center">
+            <h2>Why Nvidia Was Hit the Hardest</h2>
+            <p>
+              One of the key reasons Nvidia experienced the largest financial
+              hit is because its stock was overvalued due to its dominant role
+              in the AI training space. DeepSeek’s disruptive emergence led
+              investors to reassess Nvidia’s market positioning and future
+              growth prospects.
+            </p>
+            <div
+              id="hardware-vis"
+              class="border bg-white rounded shadow vis"
+            ></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="conclusion" class="py-5 bg-light rounded">
+        <div class="row">
+          <div class="col-md-8 mx-auto text-center">
+            <h2>Conclusion</h2>
+            <p>
+              The emergence of DeepSeek introduces new competition in AI
+              research. Its lower-cost advantage may reshape the AI hardware
+              industry. Further analysis will be added in the final version.
+            </p>
+          </div>
+        </div>
+      </section>
     </div>
 
+    <footer class="bg-dark text-white text-center py-3 mt-5">
+      <p>&copy; 2025 The DeepSeek Effect By LID</p>
+    </footer>
+
     <!-- - - - - - - - - - - - >
-    <    Load JS libraries     >
-    <- - - - - - - - - - - - -->
+    < Load JS libraries >
+<- - - - - - - - - - - - -->
 
     <!-- BOOTSTRAP -->
     <script
@@ -61,11 +133,8 @@
     <script src="https://d3js.org/topojson.v2.min.js"></script>
     <script src="https://d3js.org/d3-geo.v1.min.js"></script>
 
-    <!-- StockViz class -->
-    <script src="js/stockViz.js"></script>
-
-    <!-- Main script -->
     <!-- OWN JS -->
+    <script src="js/stockViz.js"></script>
     <script src="js/pieVis.js"></script>
     <script src="js/main.js"></script>
   </body>
