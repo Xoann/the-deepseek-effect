@@ -98,6 +98,49 @@
         </div>
       </section>
 
+      <section>
+        <div class="row">
+          <div class="col-md-10 mx-auto text-center">
+            <h2>Why is DeepSeek's release so impactful</h2>
+            <p>
+              DeepSeek is a breakthrough AI model that consistently delivers
+              quality and benchmark scores on par with, or even exceeding, those
+              of leading models. Remarkably, it achieves these impressive
+              results at a significantly lower cost, making high-performance AI
+              more accessible than ever before. The scatter plot below
+              highlights this unique balance between performance and
+              affordability, showcasing why DeepSeek is poised to disrupt the
+              current market.
+            </p>
+            <div class="row">
+              <div class="col-md-8">
+                <div
+                  id="price-qual-vis"
+                  class="border bg-white rounded shadow vis"
+                ></div>
+              </div>
+              <div class="col-md-4">
+                <div class="card h-100 shadow">
+                  <div class="card-body text-center">
+                    <h1 id="scatter-model" class="card-title h4">Model Name</h1>
+                    <p>Artificial Analysis Quality Index</p>
+                    <div class="d-flex align-items-center mb-2">
+                      <h3 class="mb-0 me-2 h6">Quality:</h3>
+                      <p id="scatter-qual" class="mb-0"></p>
+                    </div>
+                    <p>Price in USE per 1 million tokens</p>
+                    <div class="d-flex align-items-center">
+                      <h3 class="mb-0 me-2 h6">Price:</h3>
+                      <p id="scatter-price" class="mb-0"></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="conclusion" class="py-5 bg-light rounded">
         <div class="row">
           <div class="col-md-8 mx-auto text-center">
@@ -134,6 +177,7 @@
     <script src="https://d3js.org/d3-geo.v1.min.js"></script>
 
     <!-- OWN JS -->
+    <script src="js/scatterPlotVis.js"></script>
     <script src="js/stockViz.js"></script>
     <script src="js/pieVis.js"></script>
     <script src="js/main.js"></script>
