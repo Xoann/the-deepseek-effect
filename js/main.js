@@ -109,3 +109,23 @@ function main(
   // Pass the composite dataset to ComboVis.
   const comboVis = new ComboVis("comboVis", compositeData);
 }
+
+
+Promise.all([
+  d3.csv("data/benchmark_data/models.csv"),
+  d3.csv("data/benchmark_data/organizations.csv"),
+  d3.json("data/world.geojson"),
+])
+  .then(([rawModelsCsv, organizationsCsv, worldGeo]) => {
+    // Instantiate MapVis using raw models CSV, organizations CSV, and the world GeoJSON.
+    const mapVis = new MapVis(
+      "mapVis",
+      rawModelsCsv,
+      organizationsCsv,
+      null,
+      worldGeo
+    );
+  })
+  .catch((error) => {
+    console.error("Error loading MapVis data:", error);
+  });
