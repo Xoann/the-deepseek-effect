@@ -1,6 +1,5 @@
-// Load benchmark data (leave as-is for future use) plus the three stock CSVs
 const promises = [
-  d3.csv("data/benchmark_data/models.csv"),
+  d3.csv("data/benchmark_data/model_versions.csv"),
   d3.csv("data/benchmark_data/benchmarks_runs.csv"),
   d3.csv("data/stocks/NVDA_stock_2025-01-24_to_2025-01-27.csv"),
   d3.csv("data/stocks/GOOGL_stock_2025-01-24_to_2025-01-27.csv"),
@@ -10,41 +9,68 @@ const promises = [
 
 Promise.all(promises)
   .then(
-    ([modelsCsv, benchmarksCsv, nvdaCsv, googlCsv, msftCsv, priceQualCsv]) => {
-      // Process models CSV data as before
+    ([
+      modelVersionsCsv,
+      benchmarksCsv,
+      nvdaCsv,
+      googlCsv,
+      msftCsv,
+      priceQualCsv,
+    ]) => {
+      // Build a lookup map from model_versions.csv keyed by the exact "id" field.
+      // Also include the human-readable "Model" field.
+      const versionsMap = new Map();
+      modelVersionsCsv.forEach(item => {
+        versionsMap.set(item.id, {
+          id: item.id,
+          releaseDate: item["Version release date"] || "2025-01-01",
+          Model: item.Model || item.id
+        });
+      });
+      
+      // Filter benchmarks_runs for task "GPQA diamond"
+      const filteredBench = benchmarksCsv.filter(d => d.task === "GPQA diamond");
 
-      let modelsData = modelsCsv.map((item) => ({
-        name: item.Model,
-        trainingCompute: item["Training compute (FLOP)"],
-        hardware: item["Training hardware"],
-      }));
-
-      let priceQualData = priceQualCsv.map((item) => ({
+      // Create a composite map keyed by id from model_versions.
+      const compositeMap = new Map();
+      versionsMap.forEach((d, key) => {
+        compositeMap.set(key, { 
+          id: d.id,
+          Model: d.Model,
+          releaseDate: d.releaseDate,
+          benchmark_score: 0,
+          year: !isNaN(Date.parse(d.releaseDate))
+                  ? new Date(d.releaseDate).getFullYear()
+                  : 2025
+        });
+      });
+      
+      // For each benchmark run, directly match its "model" field to an "id".
+      filteredBench.forEach(bench => {
+        // Round benchmark score to 2 decimals then multiply by 100.
+        const raw = +bench["Best score (across scorers)"];
+        const rounded = Math.round((Math.round(raw * 100) / 100) * 100);
+        const key = bench.model;  // direct match
+        if (compositeMap.has(key)) {
+          let curr = compositeMap.get(key);
+          curr.benchmark_score = Math.max(curr.benchmark_score, rounded);
+          compositeMap.set(key, curr);
+        }
+      });
+      
+      // Build composite array filtering only entries with benchmark_score > 0.
+      const composite = Array.from(compositeMap.values()).filter(d => d.benchmark_score > 0);
+      
+      // Process priceQualityData for ScatterPlot as before.
+      const priceQualData = priceQualCsv.map(item => ({
         ...item,
         "Price (USD per 1M Tokens)": +item["Price (USD per 1M Tokens)"],
-        "Quality Score": +item["Quality Score"],
+        "Quality Score": +item["Quality Score"]
       }));
-
-      // Filter out models with missing training compute data and convert the value to a number
-      modelsData = modelsData
-
-        .filter((item) => item.trainingCompute !== "" && item.hardware !== "")
-        .map((item) => {
-          return {
-            ...item,
-            trainingCompute: +item.trainingCompute,
-          };
-        });
-
-      let benchmarksData = benchmarksCsv;
-
-      // console.log("First model:", modelsData[0]);
-      // console.log("First benchmark run:", benchmarksData[0]);
-
-      // Now pass along the CSVs for stocks
+  
+      // Now call main with our datasets.
       main(
-        modelsData,
-        benchmarksData,
+        composite,  // composite dataset for ComboVis
         nvdaCsv,
         googlCsv,
         msftCsv,
@@ -55,40 +81,35 @@ Promise.all(promises)
   .catch((error) => {
     console.error("Error loading CSV data:", error);
   });
-
-// Main function once all data is loaded
+  
+// Main function once all data is loaded.
 function main(
-  modelsData,
-  benchmarksData,
+  compositeData,
   nvdaData,
   googlData,
   msftData,
   priceQualData
 ) {
-  // We hold modelsData and benchmarksData for future use, if needed.
-  console.log("Stock data (NVDA, GOOG, MSFT) loaded successfully.");
+  console.log("Stock data loaded successfully.");
 
-  // Instantiate StockViz (make sure stockViz.js is already included in your HTML)
+  // Instantiate StockViz (ensure stockViz.js is included)
   const myStockViz = new StockViz("stockVis", nvdaData, googlData, msftData);
 
-  // Listen for stock selector changes
+
   d3.select("#stock-select").on("change", function () {
     const symbol = d3.select(this).property("value");
     myStockViz.setSymbol(symbol);
   });
 
-  const pieVis = new PieVis("hardware-vis", modelsData, {
-    title: "Models by Hardware",
-    slices: ["nvidia", "google", "amd", "intel"],
-    colors: ["#76B900", "#f4b400", "#ED1C24", "#0071C5"],
-    colorHover: ["#5E8C00", "#e5a500", "#9A1C20", "#005CA9"],
-  });
-
   const scatterPlot = new ScatterPlot("price-qual-vis", priceQualData, {
     color: { main: "#0078b7", other: "#777" },
-    interest: ["DeepSeek R1", "o1", "o1-mini", ""],
+    interest: ["DeepSeek R1", "o1", "o1-mini", ""]
   });
+
+  // Pass the composite dataset to ComboVis.
+  const comboVis = new ComboVis("comboVis", compositeData);
 }
+
 
 Promise.all([
   d3.csv("data/benchmark_data/models.csv"),
