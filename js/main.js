@@ -5,6 +5,7 @@ const promises = [
   d3.csv("data/stocks/GOOGL_stock_2025-01-24_to_2025-01-27.csv"),
   d3.csv("data/stocks/MSFT_stock_2025-01-24_to_2025-01-27.csv"),
   d3.csv("data/priceQualityData.csv"),
+  d3.text("data/deepseek_headlines.txt")
 ];
 
 Promise.all(promises)
@@ -16,6 +17,7 @@ Promise.all(promises)
       googlCsv,
       msftCsv,
       priceQualCsv,
+      wordCloudText
     ]) => {
       // Build a lookup map from model_versions.csv keyed by the exact "id" field.
       // Also include the human-readable "Model" field.
@@ -47,7 +49,6 @@ Promise.all(promises)
       
       // For each benchmark run, directly match its "model" field to an "id".
       filteredBench.forEach(bench => {
-        // Round benchmark score to 2 decimals then multiply by 100.
         const raw = +bench["Best score (across scorers)"];
         const rounded = Math.round((Math.round(raw * 100) / 100) * 100);
         const key = bench.model;  // direct match
@@ -74,7 +75,8 @@ Promise.all(promises)
         nvdaCsv,
         googlCsv,
         msftCsv,
-        priceQualData
+        priceQualData,
+        wordCloudText  // Pass loaded word cloud text to main()
       );
     }
   )
@@ -88,44 +90,44 @@ function main(
   nvdaData,
   googlData,
   msftData,
-  priceQualData
+  priceQualData,
+  wordCloudText
 ) {
   console.log("Stock data loaded successfully.");
 
-  // Instantiate StockViz (ensure stockViz.js is included)
-  const myStockViz = new StockViz("stockVis", nvdaData, googlData, msftData);
-
-
-  d3.select("#stock-select").on("change", function () {
-    const symbol = d3.select(this).property("value");
-    myStockViz.setSymbol(symbol);
-  });
-
+  // Instantiate three independent StockViz panels:
+  const stockNVDA = new StockViz("stockVisNVDA", nvdaData, "NVDA");
+  const stockGOOGL = new StockViz("stockVisGOOGL", googlData, "GOOGL");
+  const stockMSFT = new StockViz("stockVisMSFT", msftData, "MSFT");
+  
+  // Instantiate other visualizations as before.
   const scatterPlot = new ScatterPlot("price-qual-vis", priceQualData, {
     color: { main: "#0078b7", other: "#777" },
     interest: ["DeepSeek R1", "o1", "o1-mini", ""]
   });
-
-  // Pass the composite dataset to ComboVis.
+  
+  // ComboVis remains unchanged.
   const comboVis = new ComboVis("comboVis", compositeData);
+  
+  // MapVis instantiation remains unchanged.
+  Promise.all([
+    d3.csv("data/benchmark_data/models.csv"),
+    d3.csv("data/benchmark_data/organizations.csv"),
+    d3.json("data/world.geojson"),
+  ])
+    .then(([rawModelsCsv, organizationsCsv, worldGeo]) => {
+      const mapVis = new MapVis(
+        "mapVis",
+        rawModelsCsv,
+        organizationsCsv,
+        null,
+        worldGeo
+      );
+    })
+    .catch((error) => {
+      console.error("Error loading MapVis data:", error);
+    });
+
+  // Instantiate the Word Cloud visualization using the loaded headlines text.
+  const wordCloudVis = new WordCloudVis("wordCloudVis", wordCloudText);
 }
-
-
-Promise.all([
-  d3.csv("data/benchmark_data/models.csv"),
-  d3.csv("data/benchmark_data/organizations.csv"),
-  d3.json("data/world.geojson"),
-])
-  .then(([rawModelsCsv, organizationsCsv, worldGeo]) => {
-    // Instantiate MapVis using raw models CSV, organizations CSV, and the world GeoJSON.
-    const mapVis = new MapVis(
-      "mapVis",
-      rawModelsCsv,
-      organizationsCsv,
-      null,
-      worldGeo
-    );
-  })
-  .catch((error) => {
-    console.error("Error loading MapVis data:", error);
-  });
