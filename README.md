@@ -14,4 +14,4 @@ Each visualization is built inside its own class using d3 conventions and the in
 
 The project can be viewed at [the-deepseek-effect](https://the-deepseek-effect.netlify.app)
 
-The project demo can be view [here]()
+The project demo can be view [here](https://youtu.be/t-yCyvy90Mc)
