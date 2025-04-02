@@ -79,10 +79,38 @@
               leading to a sharp decline in its stock price. The following graph illustrates
               this stock price drop over time.
             </p>
-            <div id="stockVis" class="border bg-white rounded shadow vis"></div>
+            <div id="stockVisNVDA" class="border bg-white rounded shadow vis"></div>
           </div>
         </div>
       </section>
+
+      <!-- Market Impact Section -->
+<section id="visualization1" class="py-5 bg-light rounded">
+  <div class="row">
+    <div class="col-md-10 mx-auto text-center">
+      <h2>Market Impact: Stock Price Drops</h2>
+      <p>
+        DeepSeek's disruptive entry not only impacted Nvidia but also shifted market sentiment for other major tech stocks. Below, each panel shows the compressed trading hour trajectories for Nvidia, GOOGL, and MSFT.
+      </p>
+      <!-- <div id="stockVisNVDA" class="border bg-white rounded shadow vis mb-3"></div> -->
+      <div id="stockVisGOOGL" class="border bg-white rounded shadow vis mb-3"></div>
+      <div id="stockVisMSFT" class="border bg-white rounded shadow vis"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Media Reaction Section -->
+<section id="mediaReaction" class="py-5 bg-light rounded">
+  <div class="row">
+    <div class="col-md-10 mx-auto text-center">
+      <h2>Media Reaction</h2>
+      <p>
+        The following word cloud represents headlines and media sentiment surrounding the release of DeepSeek.
+      </p>
+      <div id="wordCloudVis" class="border bg-white rounded shadow vis"></div>
+    </div>
+  </div>
+</section>
   
       <!-- Trends & Performance Section -->
       <section id="visualization2" class="py-5">
@@ -193,6 +221,7 @@
       integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
       crossorigin="anonymous"
     ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.5/d3.layout.cloud.min.js"></script>
     <!-- d3 -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -205,5 +234,6 @@
     <script src="js/pieVis.js"></script>
     <script src="js/ComboVis.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/wordCloudVis.js"></script>
   </body>
 </html>
