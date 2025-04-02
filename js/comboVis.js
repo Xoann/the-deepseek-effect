@@ -191,8 +191,8 @@ class ComboVis {
     
     // Add a caption explaining the data.
     svg.append("text")
-      .attr("x", innerWidth + margin.left)
-      .attr("y", innerHeight + margin.top + 40)
+      .attr("x", innerWidth + margin.right)
+      .attr("y", innerHeight + margin.top - 10) // increased offset from 40 to 60
       .attr("text-anchor", "end")
       .style("font-size", "12px")
       .style("fill", "gray")
